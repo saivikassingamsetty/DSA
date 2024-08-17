@@ -2,8 +2,9 @@
  * @return {null|boolean|number|string|Array|Object}
  */
 Array.prototype.last = function() {
-    let val = this.pop();
-    return val === undefined ? -1: val;
+    if (!this.length) return -1;
+
+    return this[this.length-1];
 };
 
 /**
