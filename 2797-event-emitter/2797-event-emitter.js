@@ -8,15 +8,16 @@ class EventEmitter {
      * @return {Object}
      */
     subscribe(eventName, callback) {
-        if (!this.events[eventName]) this.events[eventName] = [];
-        this.events[eventName].push(callback);
+        let set = this.events[eventName];
+        if (!set) {
+            set = new Set();
+            this.events[eventName] = set;
+        }
+        set.add(callback);
 
         return {
             unsubscribe: () => {
-                let index = this.events[eventName].indexOf(callback);
-                if (index != -1) {
-                    this.events[eventName].splice(index, 1);
-                }
+                set.delete(callback);
             }
         };
     }
@@ -28,13 +29,10 @@ class EventEmitter {
      */
     emit(eventName, args = []) {
         let res = [];
-        if (!this.events[eventName]) return res;
+        let set = this.events[eventName];
+        if (!set) return res;
 
-        for (const callbacks of this.events[eventName]) {
-            res.push(callbacks(...args));
-        }
-
-        return res;
+        return [...set].map(cb => cb(...args));
     }
 }
 
