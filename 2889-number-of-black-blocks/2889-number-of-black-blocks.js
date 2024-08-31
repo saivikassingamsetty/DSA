@@ -5,14 +5,18 @@
  * @return {number[]}
  */
 var countBlackBlocks = function(m, n, coordinates) {
+    //intiution inspired from https://algo.monster/liteproblems/2768
+
     let blocksCount = new Map();
 
     for (const [x,y] of coordinates) {
-        //iterating over the block
+        //iterating over the block cells, as a black cell impacts its neighbours
         for (const [dx, dy] of [[0,0], [0, -1], [-1, 0], [-1, -1]]) {
             //validating the block cell
             if (x+dx >= 0 && x+dx < m-1 && y+dy >=0 && y+dy < n-1) {
+                //let take top left cell as the key of that block
                 let uniqueKey = (x+dx)*n + (y+dy);
+                //updating the black count based on key
                 blocksCount.set(uniqueKey, (blocksCount.get(uniqueKey) || 0)+1);
             }
         }
