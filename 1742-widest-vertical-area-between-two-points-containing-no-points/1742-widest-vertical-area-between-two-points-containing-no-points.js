@@ -3,15 +3,7 @@
  * @return {number}
  */
 var maxWidthOfVerticalArea = function (points) {
-    let unqX = [...new Set(points.map(i => i[0]))].sort((a, b) => a - b);
-
-    // return unqX.reduce((acc, item) => {
-    //     if (acc[1] == -1) return [0, item];
-
-    //     acc = [Math.max(acc[0], item - acc[1]), item];
-
-    //     return acc;
-    // }, [0, -1]);
+    let unqX = points.map(i => i[0]).sort((a, b) => a - b);
 
     let max = 0;
 
