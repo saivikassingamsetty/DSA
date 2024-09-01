@@ -8,6 +8,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
+| [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/saivikassingamsetty/DSA/tree/master/2048-build-array-from-permutation) |
@@ -61,4 +62,12 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
+## Design
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
+## Matrix
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 <!---LeetCode Topics End-->
