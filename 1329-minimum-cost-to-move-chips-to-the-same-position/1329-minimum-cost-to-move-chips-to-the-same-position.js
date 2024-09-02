@@ -3,21 +3,31 @@
  * @return {number}
  */
 var minCostToMoveChips = function (position) {
-    let minCost = 1e9;
+    //T O(N^2)
+    // let minCost = 1e9;
 
-    //for each position
-    for (let [index, pos] of Object.entries(position)) {
-        if (index > 0 && pos == position[index-1]) continue;
-        
-        let cost = 0;
+    // //for each position
+    // for (let [index, pos] of Object.entries(position)) {
+    //     if (index > 0 && pos == position[index-1]) continue;
 
-        //iterate over every chip to calculate cost
-        for (let chipPos of position) {
-            cost += Math.abs(pos - chipPos) % 2
-        }
+    //     let cost = 0;
 
-        minCost = Math.min(cost, minCost);
+    //     //iterate over every chip to calculate cost
+    //     for (let chipPos of position) {
+    //         cost += Math.abs(pos - chipPos) % 2
+    //     }
+
+    //     minCost = Math.min(cost, minCost);
+    // }
+
+    // return minCost;
+
+    //T O(N) odd even problem
+    let odd = even = 0;
+    for (let pos of position) {
+        if (pos%2 == 0) even++;
+        else odd++;
     }
 
-    return minCost;
+    return Math.min(odd, even);
 };
