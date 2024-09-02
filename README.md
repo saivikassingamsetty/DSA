@@ -14,6 +14,7 @@ A repository made with passion towards coding and problem solving
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saivikassingamsetty/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/saivikassingamsetty/DSA/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -32,6 +33,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -96,6 +98,7 @@ A repository made with passion towards coding and problem solving
 ## Geometry
 |  |
 | ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bit Manipulation
 |  |
