@@ -3,11 +3,12 @@
  * @return {number}
  */
 var minCostToMoveChips = function (position) {
-    let uniquePositions = [...new Set(position)];
     let minCost = 1e9;
 
     //for each position
-    for (let pos of uniquePositions) {
+    for (let [index, pos] of Object.entries(position)) {
+        if (index > 0 && pos == position[index-1]) continue;
+        
         let cost = 0;
 
         //iterate over every chip to calculate cost
