@@ -7,6 +7,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/saivikassingamsetty/DSA/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -108,6 +109,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/saivikassingamsetty/DSA/tree/master/0035-search-insert-position) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
