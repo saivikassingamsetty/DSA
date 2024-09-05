@@ -3,12 +3,13 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let track = new Map();
-    nums.forEach(item => track.set(item, (track.get(item) || 0) + 1));
+    let majority = 0;
+    let probableWinner = nums[0];
 
-    for (const [item, count] of track) {
-        if (count > Math.floor(nums.length/2)) return item;
+    for (let c of nums) {
+        if (majority == 0) probableWinner = c;
+        majority += (c == probableWinner) ? 1: -1;
     }
 
-    return nums[0];
+    return probableWinner;
 };
