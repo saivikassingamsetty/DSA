@@ -6,33 +6,6 @@
  *     this.right = (right===undefined ? null : right)
  * }
  */
-//from prev problem
-var constructMaximumBinaryTree = function(nums) {
-    //base case
-    if (!nums.length) return;
-
-    //get max items index
-    let maxIndex = nums.indexOf(Math.max(...nums));
-
-    //build left and right
-    const leftMaxTree = constructMaximumBinaryTree(nums.slice(0, maxIndex));
-    const rightMaxTree = constructMaximumBinaryTree(nums.slice(maxIndex+1));
-
-    //construct a max tree and return
-    const node = new TreeNode(nums[maxIndex], leftMaxTree, rightMaxTree);
-    // console.log(JSON.stringify(node));
-    return node;
-};
-
-function inorder(root, res) {
-    if (!root) return [];
-    
-    if(root.left) inorder(root.left, res);
-    res.push(root.val);
-    if(root.right) inorder(root.right, res);
-
-    return res;
-}
 
 /**
  * @param {TreeNode} root
@@ -40,7 +13,25 @@ function inorder(root, res) {
  * @return {TreeNode}
  */
 var insertIntoMaxTree = function(root, val) {
-    let a = inorder(root, []);
-    let b = [...a, val];
-    return constructMaximumBinaryTree(b);
+    let parentNode = null;
+    let ansRoot = root;
+
+    while (root?.val > val) {
+        //find the node which is less than our node
+        parentNode = root;
+        root = root.right;
+    }
+
+    //create a new node
+    let newNode = new TreeNode(val);
+    newNode.left = root;
+
+    //if parent node is there, add the new to the right
+    if (parentNode) {
+        parentNode.right = newNode;
+    } else { //this is the top node (max node)
+        ansRoot = newNode;
+    }
+
+    return ansRoot;
 };
