@@ -16,6 +16,7 @@ A repository made with passion towards coding and problem solving
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saivikassingamsetty/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/saivikassingamsetty/DSA/tree/master/1651-shuffle-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saivikassingamsetty/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
@@ -71,6 +72,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
+| [1651-shuffle-string](https://github.com/saivikassingamsetty/DSA/tree/master/1651-shuffle-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saivikassingamsetty/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saivikassingamsetty/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
