@@ -201,6 +201,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -209,4 +210,5 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 <!---LeetCode Topics End-->
