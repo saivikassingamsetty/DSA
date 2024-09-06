@@ -10,6 +10,7 @@ A repository made with passion towards coding and problem solving
 | [0035-search-insert-position](https://github.com/saivikassingamsetty/DSA/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
+| [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -187,8 +188,25 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
+| [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
