@@ -8,6 +8,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saivikassingamsetty/DSA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
@@ -115,6 +116,7 @@ A repository made with passion towards coding and problem solving
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/saivikassingamsetty/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/saivikassingamsetty/DSA/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -144,6 +146,7 @@ A repository made with passion towards coding and problem solving
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
