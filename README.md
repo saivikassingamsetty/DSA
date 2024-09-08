@@ -73,6 +73,7 @@ A repository made with passion towards coding and problem solving
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
@@ -83,6 +84,7 @@ A repository made with passion towards coding and problem solving
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [1651-shuffle-string](https://github.com/saivikassingamsetty/DSA/tree/master/1651-shuffle-string) |
+| [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saivikassingamsetty/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saivikassingamsetty/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -169,6 +171,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [1839-decode-xored-array](https://github.com/saivikassingamsetty/DSA/tree/master/1839-decode-xored-array) |
+| [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/saivikassingamsetty/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -208,6 +211,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+| [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 ## Game Theory
 |  |
 | ------- |
@@ -234,4 +238,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2411-spiral-matrix-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
