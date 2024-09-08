@@ -14,6 +14,7 @@ A repository made with passion towards coding and problem solving
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1505-create-target-array-in-the-given-order](https://github.com/saivikassingamsetty/DSA/tree/master/1505-create-target-array-in-the-given-order) |
@@ -119,6 +120,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/saivikassingamsetty/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/saivikassingamsetty/DSA/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -151,6 +153,7 @@ A repository made with passion towards coding and problem solving
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/saivikassingamsetty/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
