@@ -9,38 +9,29 @@
 var spiralMatrixIII = function (rows, cols, rStart, cStart) {
     let res = [[rStart, cStart]];
     const isValid = (i, j) => i >= 0 && i < rows && j >= 0 && j < cols;
-    let steps = 1;
+    let steps = 0;
     //2 pointers for traversing (ghost pointers)
-    [r,c] = [rStart, cStart];
+    [r, c] = [rStart, cStart];
+    direction = 0;
 
     while (res.length < rows * cols) {
-        //move right
-        for (let i=0; i<steps; i++) {
-            c++;
-            if (isValid(r,c)) res.push([r,c]);
+        //update steps for right and left
+        if (direction == 0 || direction == 2) steps++;
+
+        //move step points
+        for (let i = 0; i < steps; i++) {
+            //update pointers
+            if (direction == 0) c++;
+            else if (direction == 1) r++;
+            else if (direction == 2) c--;
+            else r--;
+
+            //trace the points
+            if (isValid(r, c)) res.push([r, c]);
         }
 
-        //move down
-        for (let i=0; i<steps; i++) {
-            r++;
-            if (isValid(r,c)) res.push([r,c]);
-        }
-
-        steps++;
-
-        //move left
-        for (let i=0; i<steps; i++) {
-            c--;
-            if (isValid(r,c)) res.push([r,c]);
-        }
-
-        //move up
-        for (let i=0; i<steps; i++) {
-            r--;
-            if (isValid(r,c)) res.push([r,c]);
-        }
-
-        steps++;
+        //update direction
+        direction = (direction + 1) % 4;
     }
 
     return res;
