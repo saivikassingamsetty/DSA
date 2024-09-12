@@ -100,6 +100,7 @@ A repository made with passion towards coding and problem solving
 | [2401-count-asterisks](https://github.com/saivikassingamsetty/DSA/tree/master/2401-count-asterisks) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
+| [3379-score-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
 ## Sorting
 |  |
