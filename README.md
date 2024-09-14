@@ -254,6 +254,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
+| [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
+| [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -282,4 +284,12 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
