@@ -11,14 +11,10 @@
  * @return {number}
  */
 var maxDepth = function (root) {
-    const findDepth = (node) => {
-        if (!node) return 0;
+    if (!root) return 0;
 
-        let left = (node.left) ? findDepth(node.left) : 0;
-        let right = (node.right) ? findDepth(node.right) : 0;
+    let left = maxDepth(root.left);
+    let right = maxDepth(root.right);
 
-        return 1 + Math.max(left, right);
-    }
-
-    return findDepth(root);
+    return 1 + Math.max(left, right);
 };
