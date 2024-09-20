@@ -260,6 +260,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
@@ -271,6 +272,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
@@ -302,10 +304,12 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
