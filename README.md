@@ -72,6 +72,7 @@ A repository made with passion towards coding and problem solving
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2571-find-the-pivot-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -129,6 +130,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2571-find-the-pivot-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/saivikassingamsetty/DSA/tree/master/2714-left-and-right-sum-differences) |
 ## Enumeration
 |  |
