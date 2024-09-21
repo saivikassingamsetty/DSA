@@ -27,6 +27,7 @@ A repository made with passion towards coding and problem solving
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/saivikassingamsetty/DSA/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saivikassingamsetty/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -191,6 +192,7 @@ A repository made with passion towards coding and problem solving
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
+| [1677-matrix-diagonal-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2411-spiral-matrix-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/saivikassingamsetty/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
