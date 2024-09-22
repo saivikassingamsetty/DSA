@@ -43,6 +43,7 @@ A repository made with passion towards coding and problem solving
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saivikassingamsetty/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saivikassingamsetty/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -87,6 +88,7 @@ A repository made with passion towards coding and problem solving
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
@@ -193,6 +195,7 @@ A repository made with passion towards coding and problem solving
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1677-matrix-diagonal-sum) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/saivikassingamsetty/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
