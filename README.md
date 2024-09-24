@@ -292,6 +292,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saivikassingamsetty/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -307,6 +308,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0203-remove-linked-list-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
