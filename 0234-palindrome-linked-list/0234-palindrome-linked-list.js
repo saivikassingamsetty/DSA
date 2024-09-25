@@ -18,14 +18,12 @@ var isPalindrome = function (head) {
         temp = temp.next;
     }
 
-    console.log(rev)
-
     temp = head;
-    while(temp) {
-        if(temp.val !== rev.val) return false;
+    while (temp) {
+        if (temp.val !== rev.val) return false;
         temp = temp.next;
         rev = rev.next;
     }
 
     return true;
- };
+};
