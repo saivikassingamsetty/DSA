@@ -20,6 +20,7 @@ A repository made with passion towards coding and problem solving
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
+| [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -75,6 +76,7 @@ A repository made with passion towards coding and problem solving
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0492-construct-the-rectangle) |
+| [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -95,6 +97,7 @@ A repository made with passion towards coding and problem solving
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
+| [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -133,6 +136,7 @@ A repository made with passion towards coding and problem solving
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
+| [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -223,6 +227,7 @@ A repository made with passion towards coding and problem solving
 ## Geometry
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bit Manipulation
