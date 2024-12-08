@@ -369,6 +369,7 @@ A repository made with passion towards coding and problem solving
 | [0404-sum-of-left-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
+| [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -377,4 +378,9 @@ A repository made with passion towards coding and problem solving
 | [0404-sum-of-left-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
+| [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
+## Graph
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
