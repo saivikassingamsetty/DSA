@@ -385,4 +385,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0972-knight-dialer](https://github.com/saivikassingamsetty/DSA/tree/master/0972-knight-dialer) |
 <!---LeetCode Topics End-->
