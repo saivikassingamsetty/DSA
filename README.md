@@ -25,6 +25,7 @@ A repository made with passion towards coding and problem solving
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
+| [1241-decompress-run-length-encoded-list](https://github.com/saivikassingamsetty/DSA/tree/master/1241-decompress-run-length-encoded-list) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saivikassingamsetty/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
