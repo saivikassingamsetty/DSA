@@ -3,18 +3,18 @@
  * @return {number}
  */
 var maxProduct = function (nums) {
-    let minimumProduct = nums[0];
+    let forwardProduct = 1;
+    let backwardProduct = 1;
     let maximumProduct = nums[0];
-    let ans = nums[0];
-    //used for temporary
-    let x, y;
 
-    for (let num of nums.slice(1)) {
-        x = Math.max(num, maximumProduct * num, minimumProduct * num);
-        y = Math.min(num, minimumProduct * num, maximumProduct * num);
-        [maximumProduct, minimumProduct] = [x, y]
-        ans = Math.max(ans, maximumProduct);
+    for (let i = 0; i < nums.length; i++) {
+        if (forwardProduct == 0) forwardProduct = 1;
+        if (backwardProduct == 0) backwardProduct = 1;
+
+        forwardProduct *= nums[i];
+        backwardProduct *= nums[nums.length - 1 - i];
+        maximumProduct = Math.max(maximumProduct, forwardProduct, backwardProduct)
     }
 
-    return ans;
+    return maximumProduct;
 };
