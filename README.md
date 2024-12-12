@@ -88,6 +88,7 @@ A repository made with passion towards coding and problem solving
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0492-construct-the-rectangle) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -132,6 +133,7 @@ A repository made with passion towards coding and problem solving
 | [0520-detect-capital](https://github.com/saivikassingamsetty/DSA/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1651-shuffle-string](https://github.com/saivikassingamsetty/DSA/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
