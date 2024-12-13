@@ -19,6 +19,7 @@ A repository made with passion towards coding and problem solving
 | [0485-max-consecutive-ones](https://github.com/saivikassingamsetty/DSA/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
@@ -204,6 +205,7 @@ A repository made with passion towards coding and problem solving
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -338,6 +340,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
