@@ -4,13 +4,13 @@
  * @return {boolean}
  */
 var canConstruct = function(ransomNote, magazine) {
-    let freqArray = {};
-    for (let ch of magazine) freqArray[ch] = (freqArray[ch] || 0) + 1;
+    let letters = magazine.split('');
+    let note = ransomNote.split('');
 
-    for (let ch of ransomNote) {
-        if (!freqArray[ch]) return false;
-        freqArray[ch]--;
-    }
-
-    return true;
+    return note.every((ch) => {
+        const index = letters.indexOf(ch);
+        if (index == -1) return false;
+        delete letters[index];
+        return true;
+    })
 };
