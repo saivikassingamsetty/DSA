@@ -59,7 +59,7 @@ var findTheCity = function (n, edges, distanceThreshold) {
 
             //add to visisted
             visited.add(currCity);
-            
+
             if (!(currCity in adjacencyList)) continue;
 
             for (let [nextCity, nextCityDistance] of adjacencyList[currCity]) {
@@ -77,21 +77,116 @@ var findTheCity = function (n, edges, distanceThreshold) {
         return distances.filter(x => x <= distanceThreshold).length - 1;
     }
 
+    const bellamanFord = (city) => {
+        let distances = new Array(n).fill(Infinity);
+        distances[city] = 0;
+
+        //relax n-1 times
+        for (let i = 0; i < n - 1; i++) {
+            let updated = false;
+            for (let [u, v, w] of edges) {
+                if (distances[u] + w < distances[v]) {
+                    distances[v] = distances[u] + w;
+                    updated = true;
+                }
+                if (distances[v] + w < distances[u]) {
+                    distances[u] = distances[v] + w;
+                    updated = true;
+                }
+            }
+            //early termination to avoid TLE
+            if (!updated) break;
+        }
+
+        return distances.filter(x => x <= distanceThreshold).length - 1;
+    }
+
+    const SFPA = (city) => {
+        let queue = [];
+        let distances = new Array(n).fill(Infinity);
+        distances[city] = 0;
+
+        queue.push(city);
+
+        while (queue.length) {
+            let currCity = queue.shift();
+
+            if (!(currCity in adjacencyList)) continue;
+
+            for (let [nextCity, nextCityDistance] of adjacencyList[currCity]) {
+                if (distances[currCity] + nextCityDistance < distances[nextCity]) {
+                    distances[nextCity] = distances[currCity] + nextCityDistance;
+                    queue.push(nextCity);
+                }
+            }
+        }
+
+        return distances.filter(x => x <= distanceThreshold).length - 1;
+    }
+
+    const floydWarshall = () => {
+        //distance matrix
+        let distances = new Array(n).fill(0);
+        for (let i=0; i<n; i++) {
+            distances[i] = new Array(n).fill(Infinity);
+        }
+
+        //source to source
+        for (let i = 0; i < n; i++) {
+            for (let j = 0; j < n; j++) {
+                if (i == j) distances[i][j] = 0;
+            }
+        }
+
+        //direct edges
+        for (let [u, v, w] of edges) {
+            distances[u][v] = w;
+            distances[v][u] = w;
+        }
+
+        //core algo
+        //for each intermediary
+        for (let k = 0; k < n; k++) {
+            //for each source node
+            for (let i = 0; i < n; i++) {
+                //for each destination node
+                for (let j = 0; j < n; j++) {
+                    if (distances[i][j] > distances[i][k] + distances[k][j]) {
+                        distances[i][j] = distances[i][k] + distances[k][j];
+                    }
+                }
+            }
+        }
+
+        return distances;
+    }
+
     let minConnectivity = 1e9;
     let city = 0;
     let connectivity;
 
-    //for each node
-    for (let i = 0; i < n; i++) {
-        //run bfs
-        // connectivity = findConnectivity(i);
-        connectivity = dijkstra(i);
-        console.log("Hi", connectivity)
+    // //for each node
+    // for (let i = 0; i < n; i++) {
+    //     //run bfs
+    //     // connectivity = findConnectivity(i);
+    //     // connectivity = dijkstra(i);
+    //     // connectivity = bellamanFord(i);
+    //     connectivity = SFPA(i);
+    //     if (connectivity <= minConnectivity) {
+    //         minConnectivity = connectivity;
+    //         city = i;
+    //     }
+    // }
+
+    let distances = floydWarshall();
+    for (let [i, distance] of Object.entries(distances)) {
+        connectivity = distance.filter(x => x <= distanceThreshold).length -1;
         if (connectivity <= minConnectivity) {
             minConnectivity = connectivity;
-            city = i;
+            city = +i;
         }
     }
+
 
     return city;
 };
