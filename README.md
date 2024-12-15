@@ -22,6 +22,7 @@ A repository made with passion towards coding and problem solving
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
@@ -276,6 +277,7 @@ A repository made with passion towards coding and problem solving
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
@@ -435,6 +437,7 @@ A repository made with passion towards coding and problem solving
 | [0404-sum-of-left-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -447,6 +450,7 @@ A repository made with passion towards coding and problem solving
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -470,4 +474,5 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
