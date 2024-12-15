@@ -154,6 +154,7 @@ A repository made with passion towards coding and problem solving
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0851-goat-latin](https://github.com/saivikassingamsetty/DSA/tree/master/0851-goat-latin) |
+| [0857-positions-of-large-groups](https://github.com/saivikassingamsetty/DSA/tree/master/0857-positions-of-large-groups) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
