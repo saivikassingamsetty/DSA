@@ -97,6 +97,7 @@ A repository made with passion towards coding and problem solving
 | [0492-construct-the-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0492-construct-the-rectangle) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/saivikassingamsetty/DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -328,6 +329,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/saivikassingamsetty/DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/saivikassingamsetty/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
