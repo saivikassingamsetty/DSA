@@ -75,6 +75,7 @@ A repository made with passion towards coding and problem solving
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/saivikassingamsetty/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/saivikassingamsetty/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/saivikassingamsetty/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saivikassingamsetty/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -112,6 +113,7 @@ A repository made with passion towards coding and problem solving
 | [2288-count-operations-to-obtain-zero](https://github.com/saivikassingamsetty/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2571-find-the-pivot-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -179,6 +181,7 @@ A repository made with passion towards coding and problem solving
 | [2470-removing-stars-from-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2825-minimize-string-length](https://github.com/saivikassingamsetty/DSA/tree/master/2825-minimize-string-length) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saivikassingamsetty/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/3379-score-of-a-string) |
