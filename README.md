@@ -27,6 +27,7 @@ A repository made with passion towards coding and problem solving
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
@@ -130,6 +131,7 @@ A repository made with passion towards coding and problem solving
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
+| [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/1297-maximum-number-of-balloons) |
@@ -160,6 +162,7 @@ A repository made with passion towards coding and problem solving
 | [0520-detect-capital](https://github.com/saivikassingamsetty/DSA/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
+| [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/saivikassingamsetty/DSA/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/saivikassingamsetty/DSA/tree/master/0857-positions-of-large-groups) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -280,6 +283,7 @@ A repository made with passion towards coding and problem solving
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/1297-maximum-number-of-balloons) |
