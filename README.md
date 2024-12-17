@@ -182,6 +182,7 @@ A repository made with passion towards coding and problem solving
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/saivikassingamsetty/DSA/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2825-minimize-string-length](https://github.com/saivikassingamsetty/DSA/tree/master/2825-minimize-string-length) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saivikassingamsetty/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/3379-score-of-a-string) |
