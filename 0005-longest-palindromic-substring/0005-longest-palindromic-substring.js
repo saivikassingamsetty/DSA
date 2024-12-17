@@ -12,6 +12,7 @@ var longestPalindrome = function (s) {
         //expand both sides
         let j = 1;
         //if expanded characters are same, valid palindrome
+        //odd length palindromes
         while (i - j >= 0 && i + j < n && s[i - j] == s[i + j]) {
             if (1 + j * 2 > maxLength) {
                 maxLength = 1 + j * 2;
@@ -22,6 +23,7 @@ var longestPalindrome = function (s) {
     }
 
     //considering double as a starting palindrome
+    //even length palindromes
     for (let i = 1; i < s.length; i++) {
         if (s[i] == s[i - 1]) {
             if (maxLength < 2) {
