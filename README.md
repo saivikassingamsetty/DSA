@@ -156,6 +156,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/saivikassingamsetty/DSA/tree/master/0389-find-the-difference) |
@@ -262,6 +263,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saivikassingamsetty/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
@@ -538,4 +540,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
