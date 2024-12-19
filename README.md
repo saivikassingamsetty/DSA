@@ -98,6 +98,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/saivikassingamsetty/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
@@ -336,6 +337,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/saivikassingamsetty/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/saivikassingamsetty/DSA/tree/master/0389-find-the-difference) |
@@ -474,6 +476,7 @@ A repository made with passion towards coding and problem solving
 | [0024-swap-nodes-in-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/saivikassingamsetty/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
