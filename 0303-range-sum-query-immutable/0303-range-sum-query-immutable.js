@@ -6,7 +6,6 @@ var NumArray = function (nums) {
     this.prefixArray = nums.reduce((a, i) => {
         return [...a, (a[a.length - 1] || 0) + i]
     }, []);
-    console.log(this.prefixArray)
 };
 
 /** 
