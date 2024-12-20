@@ -16,6 +16,7 @@ A repository made with passion towards coding and problem solving
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -277,6 +278,7 @@ A repository made with passion towards coding and problem solving
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
