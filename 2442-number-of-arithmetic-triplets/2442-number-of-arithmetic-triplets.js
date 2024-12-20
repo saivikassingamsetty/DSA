@@ -22,11 +22,17 @@ var arithmeticTriplets = function (nums, diff) {
         return false;
     }
 
-    for (let i = 0; i < nums.length; i++) {
-        if (binarySearch(nums[i] - diff, 0, i - 1) && binarySearch(nums[i] + diff, i + 1, nums.length - 1)) {
-            res++;
-        }
+    let set = new Set(nums);
+
+    for (let num of nums) {
+        // if (binarySearch(nums[i] - diff, 0, i - 1) && binarySearch(nums[i] + diff, i + 1, nums.length - 1)) {
+        //     res++;
+        // }
+        if (set.has(num - diff) && set.has(num + diff)) res++;
     }
 
     return res;
+
+    
+
 };
