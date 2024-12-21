@@ -13,6 +13,7 @@ A repository made with passion towards coding and problem solving
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
@@ -391,6 +392,7 @@ A repository made with passion towards coding and problem solving
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/saivikassingamsetty/DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -556,6 +558,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
 | [0972-knight-dialer](https://github.com/saivikassingamsetty/DSA/tree/master/0972-knight-dialer) |
