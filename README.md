@@ -306,6 +306,7 @@ A repository made with passion towards coding and problem solving
 | [0033-search-in-rotated-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saivikassingamsetty/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/saivikassingamsetty/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/saivikassingamsetty/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
@@ -586,5 +587,6 @@ A repository made with passion towards coding and problem solving
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/saivikassingamsetty/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/saivikassingamsetty/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
