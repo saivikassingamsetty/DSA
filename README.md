@@ -215,6 +215,7 @@ A repository made with passion towards coding and problem solving
 | [2825-minimize-string-length](https://github.com/saivikassingamsetty/DSA/tree/master/2825-minimize-string-length) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saivikassingamsetty/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/3379-score-of-a-string) |
+| [3451-string-compression-iii](https://github.com/saivikassingamsetty/DSA/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/saivikassingamsetty/DSA/tree/master/3567-convert-date-to-binary) |
