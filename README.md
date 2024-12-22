@@ -97,6 +97,7 @@ A repository made with passion towards coding and problem solving
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saivikassingamsetty/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saivikassingamsetty/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/saivikassingamsetty/DSA/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
