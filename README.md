@@ -175,6 +175,7 @@ A repository made with passion towards coding and problem solving
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/saivikassingamsetty/DSA/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saivikassingamsetty/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/saivikassingamsetty/DSA/tree/master/0344-reverse-string) |
