@@ -11,19 +11,14 @@ var nextGreaterElement = function (nums1, nums2) {
     //repeat the process
 
     let stack = [];
-    let res = [];
+    let map = new Map();
     for (let i = nums2.length - 1; i >= 0; i--) {
         while (stack.length && nums2[i] >= stack[stack.length - 1]) {
             stack.pop();
         }
-        res.push(stack.length ? stack[stack.length - 1] : -1)
+        map.set(nums2[i], stack.length ? stack[stack.length - 1] : -1)
         stack.push(nums2[i]);
     }
-    res.reverse();
-    
 
-    let index = {};
-    for(let i=0; i<nums2.length; i++) index[nums2[i]] = i;
-
-    return nums1.map(i => res[index[i]]);
+    return nums1.map(i => map.get(i));
 };
