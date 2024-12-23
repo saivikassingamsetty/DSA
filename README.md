@@ -122,6 +122,7 @@ A repository made with passion towards coding and problem solving
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0492-construct-the-rectangle) |
+| [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/saivikassingamsetty/DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -190,6 +191,7 @@ A repository made with passion towards coding and problem solving
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/saivikassingamsetty/DSA/tree/master/0520-detect-capital) |
+| [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
@@ -313,6 +315,7 @@ A repository made with passion towards coding and problem solving
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
