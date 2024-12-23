@@ -20,6 +20,7 @@ A repository made with passion towards coding and problem solving
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
@@ -391,6 +392,7 @@ A repository made with passion towards coding and problem solving
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/saivikassingamsetty/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
@@ -416,6 +418,7 @@ A repository made with passion towards coding and problem solving
 | [0040-combination-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saivikassingamsetty/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/saivikassingamsetty/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
