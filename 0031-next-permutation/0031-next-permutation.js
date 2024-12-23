@@ -3,8 +3,6 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var nextPermutation = function (nums) {
-    if (nums.join('') == [...nums].sort((a, b) => b - a).join('')) return nums.sort((a, b) => a - b);
-
     //find the index
     let i;
     for (i = nums.length - 2; i >= 0; i--) {
@@ -12,8 +10,6 @@ var nextPermutation = function (nums) {
             break;
         }
     }
-
-    if (i == undefined) return;
 
     //find next greater element to the right
     let nextGreater = 1e9;
@@ -25,16 +21,10 @@ var nextPermutation = function (nums) {
         }
     }
 
-    console.log(i, nextGreaterIndex);
-
     //swap i and j
     [nums[i], nums[nextGreaterIndex]] = [nums[nextGreaterIndex], nums[i]];
 
     //sort right
-    // for (let k = 0; k < Math.floor((nums.length - i - 1) / 2); k++) {
-    //     [nums[i + 1 + k], nums[nums.length - 1 - k]] = [nums[nums.length - 1 - k], nums[i + 1 + k]];
-    // }
-
     let left = i + 1;
     let right = nums.length - 1;
     while (left < right) {
