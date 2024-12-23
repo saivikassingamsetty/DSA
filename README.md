@@ -411,6 +411,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0046-permutations](https://github.com/saivikassingamsetty/DSA/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/saivikassingamsetty/DSA/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
