@@ -102,6 +102,7 @@ A repository made with passion towards coding and problem solving
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3330-modify-the-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/saivikassingamsetty/DSA/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -369,6 +370,7 @@ A repository made with passion towards coding and problem solving
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/saivikassingamsetty/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/saivikassingamsetty/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
+| [3330-modify-the-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3330-modify-the-matrix) |
 ## Geometry
 |  |
 | ------- |
