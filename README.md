@@ -136,6 +136,7 @@ A repository made with passion towards coding and problem solving
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/saivikassingamsetty/DSA/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
