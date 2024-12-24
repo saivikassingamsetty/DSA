@@ -431,6 +431,7 @@ A repository made with passion towards coding and problem solving
 | [0090-subsets-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -582,6 +583,7 @@ A repository made with passion towards coding and problem solving
 | [0543-diameter-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
@@ -597,12 +599,14 @@ A repository made with passion towards coding and problem solving
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Dynamic Programming
