@@ -212,6 +212,7 @@ A repository made with passion towards coding and problem solving
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/saivikassingamsetty/DSA/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/saivikassingamsetty/DSA/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/saivikassingamsetty/DSA/tree/master/1660-thousand-separator) |
 | [1720-crawler-log-folder](https://github.com/saivikassingamsetty/DSA/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saivikassingamsetty/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
