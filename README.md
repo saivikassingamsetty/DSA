@@ -170,6 +170,7 @@ A repository made with passion towards coding and problem solving
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
@@ -509,6 +510,7 @@ A repository made with passion towards coding and problem solving
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saivikassingamsetty/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
 |  |
@@ -587,6 +589,7 @@ A repository made with passion towards coding and problem solving
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -603,6 +606,7 @@ A repository made with passion towards coding and problem solving
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Graph
 |  |
