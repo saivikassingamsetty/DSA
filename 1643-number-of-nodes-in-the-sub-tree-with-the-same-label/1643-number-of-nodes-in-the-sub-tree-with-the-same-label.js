@@ -5,34 +5,26 @@
  * @return {number[]}
  */
 var countSubTrees = function (n, edges, labels) {
-    const adjacencyList = {};
+    const adjacencyList = Array(n).fill().map(() => []);
     for (let [from, to] of edges) {
-        if (!adjacencyList[from]) adjacencyList[from] = [];
-        if (!adjacencyList[to]) adjacencyList[to] = [];
         adjacencyList[from].push(to);
         adjacencyList[to].push(from);
     }
 
     const res = new Array(n).fill(0);
+    const count = new Array(26).fill(0);
 
     const dfs = (node, parent) => {
-        let freqArray = new Array(26).fill(0);
-        let index = labels[node].charCodeAt(0) - 97;
-        freqArray[index]++;
+        let prevCount = count[labels[node].charCodeAt(0) - 97];
 
-        if (!adjacencyList[node]) adjacencyList[node] = [];
-
-        for (let connectedNode of adjacencyList[node]) {
-            if (connectedNode != parent) {
-                let subTreeFreqMap = dfs(connectedNode, node);
-                for (i = 0; i < 26; i++) {
-                    freqArray[i] += subTreeFreqMap[i];
-                }
+        for (let child of adjacencyList[node]) {
+            if (child != parent) {
+                dfs(child, node);
             }
         }
-
-        res[node] = freqArray[index];
-        return freqArray;
+        
+        count[labels[node].charCodeAt(0) - 97]++;
+        res[node] = count[labels[node].charCodeAt(0) - 97] - prevCount;
     }
 
     dfs(0, -1);
