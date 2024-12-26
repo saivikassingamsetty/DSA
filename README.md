@@ -233,6 +233,7 @@ A repository made with passion towards coding and problem solving
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saivikassingamsetty/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/saivikassingamsetty/DSA/tree/master/1899-count-items-matching-a-rule) |
+| [1954-replace-all-digits-with-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saivikassingamsetty/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saivikassingamsetty/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
