@@ -249,6 +249,7 @@ A repository made with passion towards coding and problem solving
 | [3451-string-compression-iii](https://github.com/saivikassingamsetty/DSA/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/saivikassingamsetty/DSA/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/saivikassingamsetty/DSA/tree/master/3567-convert-date-to-binary) |
 ## Sorting
 |  |
@@ -323,6 +324,7 @@ A repository made with passion towards coding and problem solving
 | [2886-faulty-keyboard](https://github.com/saivikassingamsetty/DSA/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/saivikassingamsetty/DSA/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Two Pointers
 |  |
 | ------- |
