@@ -151,6 +151,7 @@ A repository made with passion towards coding and problem solving
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/saivikassingamsetty/DSA/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/3568-find-the-key-of-the-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/saivikassingamsetty/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A repository made with passion towards coding and problem solving
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/saivikassingamsetty/DSA/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/saivikassingamsetty/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A repository made with passion towards coding and problem solving
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saivikassingamsetty/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/saivikassingamsetty/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -588,6 +591,7 @@ A repository made with passion towards coding and problem solving
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/saivikassingamsetty/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
