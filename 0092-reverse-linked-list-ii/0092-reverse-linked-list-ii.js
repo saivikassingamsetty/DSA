@@ -26,22 +26,13 @@ var reverseBetween = function (head, left, right) {
         i++;
     }
 
-    console.log(segmentPreHead, segmentHead, segmentTail);
-
     let c = left;
     while (c < right) {
         let tail = segmentTail.next;
         let prevHead = segmentHead;
-
-        console.log(c, head, tail, prevHead)
         segmentHead = segmentHead.next;
-
-        console.log(segmentHead);
-
         segmentTail.next = prevHead;
         prevHead.next = tail;
-
-        console.log(segmentTail)
         c++;
     }
 
