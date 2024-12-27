@@ -12,14 +12,45 @@
  * @return {TreeNode}
  */
 var removeLeafNodes = function (root, target) {
-    if (!root) return root;
+    if (!root) return null;
 
-    //recursively remove left and right
-    if (root.left) root.left = removeLeafNodes(root.left, target);
-    if (root.right) root.right = removeLeafNodes(root.right, target);
+    let stack = [root];
+    let parent = new Map();
 
-    //after modifying the left and right, check if its leaf and remove it
-    if (root && !root.left && !root.right && root.val == target) return null;
+    while (stack.length) {
+        //get the top node (without actually popping it, we will pop it later to make post order traversal)
+        const node = stack[stack.length-1];
+
+        //check if there is an unexplored left node
+        if (node.left && !parent.has(node.left)) {
+            stack.push(node.left);
+            parent.set(node.left, node);
+            //to actually go in deep
+            continue;
+        }
+
+        //check if there is an unexplored right node
+        if (node.right && !parent.has(node.right)) {
+            stack.push(node.right);
+            parent.set(node.right, node);
+            //to actually go in deep
+            continue;
+        }
+
+        //now pop it, post order traversal
+        stack.pop();
+
+        //check if that's the node which needs to be removed
+        if (!node.left && !node.right && node.val == target) {
+            let parentNode = parent.get(node);
+            if (parentNode) {
+                if (parentNode.left == node) parentNode.left = null;
+                if (parentNode.right == node) parentNode.right = null;
+            } else {
+                return null;
+            }
+        }
+    }
 
     return root;
 };
