@@ -84,6 +84,7 @@ A repository made with passion towards coding and problem solving
 | [1945-finding-the-users-active-minutes](https://github.com/saivikassingamsetty/DSA/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/saivikassingamsetty/DSA/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2048-build-array-from-permutation](https://github.com/saivikassingamsetty/DSA/tree/master/2048-build-array-from-permutation) |
@@ -292,6 +293,7 @@ A repository made with passion towards coding and problem solving
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saivikassingamsetty/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1777-determine-if-two-strings-are-close](https://github.com/saivikassingamsetty/DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saivikassingamsetty/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/saivikassingamsetty/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -373,6 +375,7 @@ A repository made with passion towards coding and problem solving
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1972-rotating-the-box](https://github.com/saivikassingamsetty/DSA/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2228-watering-plants-ii](https://github.com/saivikassingamsetty/DSA/tree/master/2228-watering-plants-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -502,6 +505,7 @@ A repository made with passion towards coding and problem solving
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/saivikassingamsetty/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saivikassingamsetty/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
