@@ -126,6 +126,7 @@ A repository made with passion towards coding and problem solving
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/saivikassingamsetty/DSA/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
