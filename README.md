@@ -448,6 +448,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/saivikassingamsetty/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
@@ -516,6 +517,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
