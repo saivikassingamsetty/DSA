@@ -54,6 +54,7 @@ A repository made with passion towards coding and problem solving
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/saivikassingamsetty/DSA/tree/master/1241-decompress-run-length-encoded-list) |
@@ -179,6 +180,7 @@ A repository made with passion towards coding and problem solving
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
+| [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -679,6 +681,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
+| [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
