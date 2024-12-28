@@ -206,6 +206,7 @@ A repository made with passion towards coding and problem solving
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2825-minimize-string-length](https://github.com/saivikassingamsetty/DSA/tree/master/2825-minimize-string-length) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -267,6 +268,7 @@ A repository made with passion towards coding and problem solving
 | [2887-sort-vowels-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saivikassingamsetty/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/saivikassingamsetty/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/saivikassingamsetty/DSA/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -304,6 +306,7 @@ A repository made with passion towards coding and problem solving
 | [2887-sort-vowels-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Prefix Sum
 |  |
@@ -417,6 +420,7 @@ A repository made with passion towards coding and problem solving
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -509,6 +513,7 @@ A repository made with passion towards coding and problem solving
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saivikassingamsetty/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
