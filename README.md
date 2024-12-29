@@ -133,6 +133,7 @@ A repository made with passion towards coding and problem solving
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saivikassingamsetty/DSA/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
@@ -632,6 +633,7 @@ A repository made with passion towards coding and problem solving
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saivikassingamsetty/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -654,6 +656,7 @@ A repository made with passion towards coding and problem solving
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0206-reverse-linked-list) |
