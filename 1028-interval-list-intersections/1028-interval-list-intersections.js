@@ -9,18 +9,15 @@ var intervalIntersection = function (firstList, secondList) {
     let res = [];
 
     while (i < firstList.length && j < secondList.length) {
-        //finding the edges
-        let [aStart, aEnd] = firstList[i];
-        let [bStart, bEnd] = secondList[j];
+        let start = Math.max(firstList[i][0], secondList[j][0]);
+		let end = Math.min(firstList[i][1], secondList[j][1]);
 
-        // Step 1: track overlapping range
-        //Cross Locking one
-        if (aStart <= bEnd && bStart <= aEnd) {
-            res.push([Math.max(aStart, bStart), Math.min(aEnd, bEnd)]);
-        }
+        //Based on start and end
+        if (start <= end) res.push([start, end]);
 
         //Step: 2: Update pointers
-        if (aEnd <= bEnd) {
+        //if firstList[i][1] is smaller
+        if (end == firstList[i][1]) {
             i++
         } else {
             j++;
