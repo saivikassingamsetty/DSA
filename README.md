@@ -55,6 +55,7 @@ A repository made with passion towards coding and problem solving
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1028-interval-list-intersections](https://github.com/saivikassingamsetty/DSA/tree/master/1028-interval-list-intersections) |
 | [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
@@ -391,6 +392,7 @@ A repository made with passion towards coding and problem solving
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1028-interval-list-intersections](https://github.com/saivikassingamsetty/DSA/tree/master/1028-interval-list-intersections) |
 | [1972-rotating-the-box](https://github.com/saivikassingamsetty/DSA/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
