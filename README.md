@@ -19,6 +19,7 @@ A repository made with passion towards coding and problem solving
 | [0045-jump-game-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/saivikassingamsetty/DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
@@ -534,6 +535,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -745,6 +747,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
