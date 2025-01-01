@@ -3,21 +3,17 @@
  * @return {number}
  */
 var jump = function (nums) {
-    const dp = new Map();
+    let n = nums.length;
+    let dp = new Array(n).fill(Infinity);
 
-    const minJumps = (i) => {
-        if (i == nums.length - 1) return 0;
+    //base case
+    dp[n - 1] = 0;
 
-        if (dp.has(i)) return dp.get(i);
-
-        let minimumJumps = 1e9;
-        for (let nextPos = i + 1; nextPos <= i + nums[i] && nextPos < nums.length; nextPos++) {
-            minimumJumps = Math.min(minimumJumps, 1 + minJumps(nextPos))
+    for (let i = n - 2; i >= 0; i--) {
+        for (let j = i + 1; j <= i + nums[i] && j < n; j++) {
+            dp[i] = Math.min(dp[i], 1 + dp[j]);
         }
-
-        dp.set(i, minimumJumps);
-        return minimumJumps;
     }
 
-    return minJumps(0);
+    return dp[0];
 };
