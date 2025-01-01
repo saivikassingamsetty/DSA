@@ -3,17 +3,20 @@
  * @return {number}
  */
 var jump = function (nums) {
-    let n = nums.length;
-    let dp = new Array(n).fill(Infinity);
+    let maxJump = 0;
+    let nextMaxJump = 0;
+    let count = 0;
 
-    //base case
-    dp[n - 1] = 0;
+    for (let i = 0; i < nums.length-1; i++) {
+        //at each position track max node which can be reachable from that point
+        nextMaxJump = Math.max(nextMaxJump, i + nums[i]);
 
-    for (let i = n - 2; i >= 0; i--) {
-        for (let j = i + 1; j <= i + nums[i] && j < n; j++) {
-            dp[i] = Math.min(dp[i], 1 + dp[j]);
+        //if we are done finalising next step, jump to available next max jump and find the next max jump
+        if (i == maxJump) {
+            count++;
+            maxJump = nextMaxJump;
         }
     }
 
-    return dp[0];
+    return count;
 };
