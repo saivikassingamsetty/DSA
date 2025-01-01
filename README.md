@@ -33,6 +33,7 @@ A repository made with passion towards coding and problem solving
 | [0198-house-robber](https://github.com/saivikassingamsetty/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -180,6 +181,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
@@ -304,6 +306,7 @@ A repository made with passion towards coding and problem solving
 | [0018-4sum](https://github.com/saivikassingamsetty/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/saivikassingamsetty/DSA/tree/master/0389-find-the-difference) |
