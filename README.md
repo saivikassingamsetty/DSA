@@ -182,6 +182,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
@@ -236,6 +237,7 @@ A repository made with passion towards coding and problem solving
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/saivikassingamsetty/DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saivikassingamsetty/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/saivikassingamsetty/DSA/tree/master/0344-reverse-string) |
@@ -307,6 +309,7 @@ A repository made with passion towards coding and problem solving
 | [0056-merge-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/saivikassingamsetty/DSA/tree/master/0389-find-the-difference) |
