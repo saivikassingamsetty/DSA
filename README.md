@@ -192,6 +192,7 @@ A repository made with passion towards coding and problem solving
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/saivikassingamsetty/DSA/tree/master/0782-jewels-and-stones) |
@@ -251,6 +252,7 @@ A repository made with passion towards coding and problem solving
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/saivikassingamsetty/DSA/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/saivikassingamsetty/DSA/tree/master/0782-jewels-and-stones) |
@@ -407,6 +409,7 @@ A repository made with passion towards coding and problem solving
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -679,6 +682,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 ## Recursion
 |  |
