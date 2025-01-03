@@ -767,6 +767,7 @@ A repository made with passion towards coding and problem solving
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2455-node-with-highest-edge-score](https://github.com/saivikassingamsetty/DSA/tree/master/2455-node-with-highest-edge-score) |
+| [3189-find-champion-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3189-find-champion-ii) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Dynamic Programming
 |  |
