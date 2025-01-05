@@ -32,6 +32,7 @@ A repository made with passion towards coding and problem solving
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/saivikassingamsetty/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saivikassingamsetty/DSA/tree/master/0238-product-of-array-except-self) |
@@ -148,6 +149,7 @@ A repository made with passion towards coding and problem solving
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saivikassingamsetty/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/saivikassingamsetty/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saivikassingamsetty/DSA/tree/master/0263-ugly-number) |
@@ -362,6 +364,7 @@ A repository made with passion towards coding and problem solving
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/2442-number-of-arithmetic-triplets) |
@@ -805,6 +808,7 @@ A repository made with passion towards coding and problem solving
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0258-add-digits) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
 ## String Matching
