@@ -157,6 +157,7 @@ A repository made with passion towards coding and problem solving
 | [0258-add-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saivikassingamsetty/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/saivikassingamsetty/DSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0492-construct-the-rectangle) |
@@ -612,6 +613,7 @@ A repository made with passion towards coding and problem solving
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/saivikassingamsetty/DSA/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Stack
 |  |
@@ -827,4 +829,8 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0278-first-bad-version](https://github.com/saivikassingamsetty/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/saivikassingamsetty/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saivikassingamsetty/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
