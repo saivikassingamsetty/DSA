@@ -56,6 +56,7 @@ A repository made with passion towards coding and problem solving
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/saivikassingamsetty/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -370,6 +371,7 @@ A repository made with passion towards coding and problem solving
 | [0238-product-of-array-except-self](https://github.com/saivikassingamsetty/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/saivikassingamsetty/DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
