@@ -88,6 +88,7 @@ A repository made with passion towards coding and problem solving
 | [1720-crawler-log-folder](https://github.com/saivikassingamsetty/DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saivikassingamsetty/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saivikassingamsetty/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
@@ -230,6 +231,7 @@ A repository made with passion towards coding and problem solving
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/saivikassingamsetty/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 | [1945-finding-the-users-active-minutes](https://github.com/saivikassingamsetty/DSA/tree/master/1945-finding-the-users-active-minutes) |
@@ -374,6 +376,7 @@ A repository made with passion towards coding and problem solving
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saivikassingamsetty/DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -476,6 +479,7 @@ A repository made with passion towards coding and problem solving
 | [0374-guess-number-higher-or-lower](https://github.com/saivikassingamsetty/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -730,6 +734,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 ## Recursion
 |  |
