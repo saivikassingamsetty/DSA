@@ -103,6 +103,7 @@ A repository made with passion towards coding and problem solving
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2048-build-array-from-permutation](https://github.com/saivikassingamsetty/DSA/tree/master/2048-build-array-from-permutation) |
+| [2102-find-the-middle-index-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saivikassingamsetty/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saivikassingamsetty/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -375,6 +376,7 @@ A repository made with passion towards coding and problem solving
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2240-intervals-between-identical-elements](https://github.com/saivikassingamsetty/DSA/tree/master/2240-intervals-between-identical-elements) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2571-find-the-pivot-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2571-find-the-pivot-integer) |
