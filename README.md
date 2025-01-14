@@ -135,6 +135,7 @@ A repository made with passion towards coding and problem solving
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/saivikassingamsetty/DSA/tree/master/2721-sum-of-distances) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saivikassingamsetty/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -257,6 +258,7 @@ A repository made with passion towards coding and problem solving
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2721-sum-of-distances](https://github.com/saivikassingamsetty/DSA/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/saivikassingamsetty/DSA/tree/master/2825-minimize-string-length) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/saivikassingamsetty/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -576,6 +578,7 @@ A repository made with passion towards coding and problem solving
 | [2427-first-letter-to-appear-twice](https://github.com/saivikassingamsetty/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/saivikassingamsetty/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saivikassingamsetty/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
