@@ -166,6 +166,7 @@ A repository made with passion towards coding and problem solving
 | [0202-happy-number](https://github.com/saivikassingamsetty/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/saivikassingamsetty/DSA/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saivikassingamsetty/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
@@ -276,6 +277,7 @@ A repository made with passion towards coding and problem solving
 | [0038-count-and-say](https://github.com/saivikassingamsetty/DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saivikassingamsetty/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -761,6 +763,7 @@ A repository made with passion towards coding and problem solving
 | [0206-reverse-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saivikassingamsetty/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saivikassingamsetty/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -839,6 +842,7 @@ A repository made with passion towards coding and problem solving
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/saivikassingamsetty/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0972-knight-dialer](https://github.com/saivikassingamsetty/DSA/tree/master/0972-knight-dialer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -885,4 +889,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
