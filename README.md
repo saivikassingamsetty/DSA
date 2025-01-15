@@ -578,6 +578,7 @@ A repository made with passion towards coding and problem solving
 | [2308-divide-array-into-equal-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/saivikassingamsetty/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/saivikassingamsetty/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2509-minimize-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -621,6 +622,7 @@ A repository made with passion towards coding and problem solving
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saivikassingamsetty/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2487-optimal-partition-of-string](https://github.com/saivikassingamsetty/DSA/tree/master/2487-optimal-partition-of-string) |
+| [2509-minimize-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2509-minimize-xor) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
