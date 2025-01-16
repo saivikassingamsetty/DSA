@@ -3,9 +3,21 @@
  * @return {number}
  */
 var firstMissingPositive = function (nums) {
-    let mySet = new Set();
+    //use cycle sort
+    let i = 0;
+    while (i < nums.length) {
+        let correctIndex = nums[i] - 1;
+        if (correctIndex >= 0 && correctIndex < nums.length && nums[i] != nums[correctIndex]) {
+            [nums[i], nums[correctIndex]] = [nums[correctIndex], nums[i]];
+        }
+        else {
+            i++;
+        }
+    }
 
-    for (let num of nums) if (num > 0) mySet.add(num);
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] != i + 1) return i + 1;
+    }
 
-    for (let i = 1; i <= 2 * nums.length; i++) if (!mySet.has(i)) return i;
+    return nums.length + 1;
 };
