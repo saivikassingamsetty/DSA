@@ -3,14 +3,20 @@
  * @return {number[]}
  */
 var countBits = function (n) {
-    let res = [0, 1, 1, 2, 1];
-    let resHelper = [2];
+    let dp = new Array(n + 1).fill(0);
 
-    while (res.length <= n) {
-        a = [...resHelper, 2, ...resHelper.map(i => i + 1)]
-        res.push(...a, 1);
-        resHelper = a;
+    let great = 2;
+    for (let i = 1; i <= n; i++) {
+        //base
+        if (i == great) {
+            dp[i] = 1;
+            great *= 2;
+            continue;
+        }
+
+        //reccurrance
+        dp[i] = 1 + dp[i - Math.floor(great / 2)];
     }
 
-    return res.slice(0, n + 1);
+    return dp;
 };
