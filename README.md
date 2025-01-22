@@ -56,6 +56,7 @@ A repository made with passion towards coding and problem solving
 | [0485-max-consecutive-ones](https://github.com/saivikassingamsetty/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
@@ -548,6 +549,7 @@ A repository made with passion towards coding and problem solving
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/saivikassingamsetty/DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -835,6 +837,7 @@ A repository made with passion towards coding and problem solving
 | [0404-sum-of-left-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/saivikassingamsetty/DSA/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
@@ -870,6 +873,7 @@ A repository made with passion towards coding and problem solving
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0972-knight-dialer](https://github.com/saivikassingamsetty/DSA/tree/master/0972-knight-dialer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1761-count-sorted-vowel-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1761-count-sorted-vowel-strings) |
