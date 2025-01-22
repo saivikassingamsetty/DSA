@@ -99,6 +99,7 @@ A repository made with passion towards coding and problem solving
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/saivikassingamsetty/DSA/tree/master/1839-decode-xored-array) |
+| [1876-map-of-highest-peak](https://github.com/saivikassingamsetty/DSA/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saivikassingamsetty/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/saivikassingamsetty/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/saivikassingamsetty/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -557,6 +558,7 @@ A repository made with passion towards coding and problem solving
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1876-map-of-highest-peak](https://github.com/saivikassingamsetty/DSA/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/saivikassingamsetty/DSA/tree/master/1972-rotating-the-box) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2411-spiral-matrix-iv) |
@@ -845,6 +847,7 @@ A repository made with passion towards coding and problem solving
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1876-map-of-highest-peak](https://github.com/saivikassingamsetty/DSA/tree/master/1876-map-of-highest-peak) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Graph
 |  |
