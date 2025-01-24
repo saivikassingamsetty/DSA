@@ -3,36 +3,35 @@
  * @return {number[]}
  */
 var eventualSafeNodes = function (graph) {
-    let n = graph.length;
-    let state = new Array(n).fill(0);
+    let isSafe = new Array(graph.length).fill(false);
+    let vis = new Array(graph.length).fill(false);
 
     const isSafeNode = (node) => {
-        //if already visited
-        if (state[node] != 0) return state[node] == 2;
-
-        //visited
-        state[node] = 1;
+        vis[node] = true;
+        safe = true;
 
         for (let adj of graph[node]) {
-            //cycle or any child node is unsafe
-            if (state[adj] == 1 || !isSafeNode(adj)) {
-                return false;
+            if (vis[adj] && isSafe[adj]) {
+                continue;
+            } else if (vis[adj] && !isSafe[adj]) {
+                safe = false;
+            } else {
+                safe &= isSafeNode(adj);
             }
+
+            if (!safe) break;
         }
 
-        //safe
-        state[node] = 2;
-        return true;
+        isSafe[node] = safe;
+        return safe;
     }
 
-    let safe = [];
+    const ans = [];
 
-    for (let i = 0; i < n; i++) {
-        if (isSafeNode(i)) {
-            safe.push(i);
-        }
+    for (let i = 0; i < graph.length; i++) {
+        if (!vis[i]) isSafeNode(i);
+        if (isSafe[i]) ans.push(i);
     }
 
-    return safe.sort((a, b) => a - b);
-
+    return ans;
 };
