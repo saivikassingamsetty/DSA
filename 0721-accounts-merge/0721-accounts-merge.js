@@ -7,10 +7,6 @@ var accountsMerge = function (accounts) {
     let names = new Map();
 
     function find(node) {
-        if (!parents.get(node)) {
-            parents.set(node, node);
-        }
-
         if (parents.get(node) !== node) {
             parents.set(node, find(parents.get(node)));
         }
@@ -33,6 +29,9 @@ var accountsMerge = function (accounts) {
 
         for (let j = 1; j < account.length; j++) {
             let email = account[j];
+            if (!parents.get(email)) {
+                parents.set(email, email);
+            }
             union(firstEmail, email);
             names.set(email, name);
         }
@@ -42,18 +41,15 @@ var accountsMerge = function (accounts) {
     for (let email of parents.keys()) {
         const root = find(email);
         if (!emailsGroup.has(root)) {
-            emailsGroup.set(root, []);
+            emailsGroup.set(root, new Set());
         }
-
-        emailsGroup.set(root, [...emailsGroup.get(root), email]);
+        emailsGroup.set(root, emailsGroup.get(root).add(email));
     }
-
-    console.log(emailsGroup)
 
     let res = [];
     for (let [emailRoot, emails] of emailsGroup) {
         let name = names.get(emailRoot);
-        let emailsCopy = [...new Set(emails)].sort((a, b) => {
+        let emailsCopy = [...emails].sort((a, b) => {
             if (a < b) return -1
             else return 1
         });
