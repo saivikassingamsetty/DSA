@@ -839,6 +839,7 @@ A repository made with passion towards coding and problem solving
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/saivikassingamsetty/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -864,6 +865,7 @@ A repository made with passion towards coding and problem solving
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -877,6 +879,7 @@ A repository made with passion towards coding and problem solving
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
