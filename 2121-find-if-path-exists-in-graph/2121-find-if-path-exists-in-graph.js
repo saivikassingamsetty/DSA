@@ -6,25 +6,27 @@
  * @return {boolean}
  */
 var validPath = function (n, edges, source, destination) {
-    const vis = new Set();
-    const adjList = Array.from({ length: n }, () => []);
-    for (let [u, v] of edges) {
-        adjList[u].push(v);
-        adjList[v].push(u);
-    }
+    const parents = {};
 
-    const dfs = (node) => {
-        if (node == destination) return true;
-        vis.add(node);
-
-        for (let next of adjList[node]) {
-            if (!vis.has(next)) {
-                if (dfs(next)) return true;
-            }
+    const find = (node) => {
+        if (parents[node] === undefined) {
+            parents[node] = node;
         }
 
-        return false;
+        if (parents[node] !== node) {
+            parents[node] = find(parents[node]);
+        }
+
+        return parents[node];
     }
 
-    return dfs(source);
+    const union = (u, v) => {
+        const rootU = find(u);
+        const rootV = find(v);
+
+        if (rootU !== rootV) parents[rootU] = rootV;
+    }
+
+    edges.forEach(([u, v]) => union(u, v));
+    return find(source) == find(destination);
 };
