@@ -84,6 +84,7 @@ A repository made with passion towards coding and problem solving
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saivikassingamsetty/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/saivikassingamsetty/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saivikassingamsetty/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -247,6 +248,7 @@ A repository made with passion towards coding and problem solving
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
@@ -381,6 +383,7 @@ A repository made with passion towards coding and problem solving
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saivikassingamsetty/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -867,6 +870,7 @@ A repository made with passion towards coding and problem solving
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -881,6 +885,7 @@ A repository made with passion towards coding and problem solving
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2455-node-with-highest-edge-score](https://github.com/saivikassingamsetty/DSA/tree/master/2455-node-with-highest-edge-score) |
