@@ -149,6 +149,7 @@ A repository made with passion towards coding and problem solving
 | [2792-neighboring-bitwise-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saivikassingamsetty/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
+| [2892-check-if-array-is-good](https://github.com/saivikassingamsetty/DSA/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saivikassingamsetty/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/saivikassingamsetty/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -279,6 +280,7 @@ A repository made with passion towards coding and problem solving
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/saivikassingamsetty/DSA/tree/master/2825-minimize-string-length) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
+| [2892-check-if-array-is-good](https://github.com/saivikassingamsetty/DSA/tree/master/2892-check-if-array-is-good) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/saivikassingamsetty/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -399,6 +401,7 @@ A repository made with passion towards coding and problem solving
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [2892-check-if-array-is-good](https://github.com/saivikassingamsetty/DSA/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
