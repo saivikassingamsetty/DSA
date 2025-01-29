@@ -42,6 +42,7 @@ A repository made with passion towards coding and problem solving
 | [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saivikassingamsetty/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
@@ -383,6 +384,7 @@ A repository made with passion towards coding and problem solving
 | [0056-merge-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
@@ -692,6 +694,7 @@ A repository made with passion towards coding and problem solving
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
@@ -707,6 +710,7 @@ A repository made with passion towards coding and problem solving
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
@@ -1011,5 +1015,6 @@ A repository made with passion towards coding and problem solving
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
