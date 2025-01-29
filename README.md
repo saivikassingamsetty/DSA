@@ -50,6 +50,7 @@ A repository made with passion towards coding and problem solving
 | [0289-game-of-life](https://github.com/saivikassingamsetty/DSA/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saivikassingamsetty/DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
@@ -234,6 +235,7 @@ A repository made with passion towards coding and problem solving
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -384,6 +386,7 @@ A repository made with passion towards coding and problem solving
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/saivikassingamsetty/DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -539,6 +542,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -688,11 +692,13 @@ A repository made with passion towards coding and problem solving
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
@@ -701,6 +707,7 @@ A repository made with passion towards coding and problem solving
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 ## Game Theory
@@ -1001,4 +1008,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
