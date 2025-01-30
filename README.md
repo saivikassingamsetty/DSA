@@ -181,6 +181,7 @@ A repository made with passion towards coding and problem solving
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saivikassingamsetty/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
@@ -940,6 +941,7 @@ A repository made with passion towards coding and problem solving
 | [0053-maximum-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1007,6 +1009,7 @@ A repository made with passion towards coding and problem solving
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Topological Sort
 |  |
