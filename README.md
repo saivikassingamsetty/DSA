@@ -178,6 +178,7 @@ A repository made with passion towards coding and problem solving
 | [0002-add-two-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saivikassingamsetty/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saivikassingamsetty/DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
@@ -612,6 +613,7 @@ A repository made with passion towards coding and problem solving
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0090-subsets-ii) |
