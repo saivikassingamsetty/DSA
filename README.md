@@ -20,6 +20,7 @@ A repository made with passion towards coding and problem solving
 | [0041-first-missing-positive](https://github.com/saivikassingamsetty/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/saivikassingamsetty/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/saivikassingamsetty/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
@@ -180,6 +181,7 @@ A repository made with passion towards coding and problem solving
 | [0007-reverse-integer](https://github.com/saivikassingamsetty/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saivikassingamsetty/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/saivikassingamsetty/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
@@ -576,6 +578,7 @@ A repository made with passion towards coding and problem solving
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saivikassingamsetty/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0073-set-matrix-zeroes) |
