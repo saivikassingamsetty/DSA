@@ -168,6 +168,7 @@ A repository made with passion towards coding and problem solving
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/saivikassingamsetty/DSA/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3429-special-array-i](https://github.com/saivikassingamsetty/DSA/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
