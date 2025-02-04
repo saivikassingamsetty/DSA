@@ -113,6 +113,7 @@ A repository made with passion towards coding and problem solving
 | [1876-map-of-highest-peak](https://github.com/saivikassingamsetty/DSA/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saivikassingamsetty/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/saivikassingamsetty/DSA/tree/master/1899-count-items-matching-a-rule) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/saivikassingamsetty/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1945-finding-the-users-active-minutes](https://github.com/saivikassingamsetty/DSA/tree/master/1945-finding-the-users-active-minutes) |
