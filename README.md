@@ -77,6 +77,7 @@ A repository made with passion towards coding and problem solving
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
+| [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
@@ -452,6 +453,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/2442-number-of-arithmetic-triplets) |
@@ -521,6 +523,7 @@ A repository made with passion towards coding and problem solving
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
+| [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/saivikassingamsetty/DSA/tree/master/1028-interval-list-intersections) |
 | [1972-rotating-the-box](https://github.com/saivikassingamsetty/DSA/tree/master/1972-rotating-the-box) |
@@ -966,6 +969,7 @@ A repository made with passion towards coding and problem solving
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
+| [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0972-knight-dialer](https://github.com/saivikassingamsetty/DSA/tree/master/0972-knight-dialer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1761-count-sorted-vowel-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1761-count-sorted-vowel-strings) |
