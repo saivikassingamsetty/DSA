@@ -277,6 +277,7 @@ A repository made with passion towards coding and problem solving
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/saivikassingamsetty/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saivikassingamsetty/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1945-finding-the-users-active-minutes](https://github.com/saivikassingamsetty/DSA/tree/master/1945-finding-the-users-active-minutes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saivikassingamsetty/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2240-intervals-between-identical-elements](https://github.com/saivikassingamsetty/DSA/tree/master/2240-intervals-between-identical-elements) |
@@ -356,6 +357,7 @@ A repository made with passion towards coding and problem solving
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saivikassingamsetty/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/saivikassingamsetty/DSA/tree/master/1899-count-items-matching-a-rule) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saivikassingamsetty/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1954-replace-all-digits-with-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saivikassingamsetty/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -565,6 +567,7 @@ A repository made with passion towards coding and problem solving
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1777-determine-if-two-strings-are-close](https://github.com/saivikassingamsetty/DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saivikassingamsetty/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/saivikassingamsetty/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/saivikassingamsetty/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
