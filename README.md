@@ -76,6 +76,7 @@ A repository made with passion towards coding and problem solving
 | [0724-find-pivot-index](https://github.com/saivikassingamsetty/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
@@ -981,6 +982,7 @@ A repository made with passion towards coding and problem solving
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0972-knight-dialer](https://github.com/saivikassingamsetty/DSA/tree/master/0972-knight-dialer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
