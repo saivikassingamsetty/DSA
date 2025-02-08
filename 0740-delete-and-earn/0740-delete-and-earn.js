@@ -7,22 +7,15 @@ var deleteAndEarn = function (nums) {
     let maxNum = 0;
 
     for (let num of nums) {
-        freqArray[num] = (freqArray[num] || 0) + 1;
+        freqArray[num] = (freqArray[num] ?? 0) + 1;
         maxNum = Math.max(maxNum, num);
     }
 
-    let memo = new Map();
-
-    const maxPoints = (i) => {
-        if (i <= 0) return 0;
-
-        if (!memo.has(i)) {
-            //either exclude the current num or include it exclude the prev one like house robber
-            memo.set(i, Math.max(maxPoints(i - 1), maxPoints(i - 2) + i * (freqArray[i] || 0)));
-        }
-
-        return memo.get(i);
+    let prev = 0;
+    let curr = freqArray[1] || 0;
+    for (let i = 2; i <= maxNum; i++) {
+        [prev, curr] = [curr, Math.max(curr, prev + i * (freqArray[i] ?? 0))];
     }
 
-    return maxPoints(maxNum);
+    return curr;
 };
