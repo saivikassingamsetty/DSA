@@ -234,6 +234,7 @@ A repository made with passion towards coding and problem solving
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/saivikassingamsetty/DSA/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/3568-find-the-key-of-the-numbers) |
@@ -672,6 +673,7 @@ A repository made with passion towards coding and problem solving
 | [3044-minimum-operations-to-collect-elements](https://github.com/saivikassingamsetty/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saivikassingamsetty/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saivikassingamsetty/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
@@ -694,6 +696,7 @@ A repository made with passion towards coding and problem solving
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Greedy
 |  |
 | ------- |
@@ -989,6 +992,7 @@ A repository made with passion towards coding and problem solving
 | [1761-count-sorted-vowel-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/saivikassingamsetty/DSA/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1044,6 +1048,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Topological Sort
 |  |
 | ------- |
