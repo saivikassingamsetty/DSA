@@ -147,6 +147,7 @@ A repository made with passion towards coding and problem solving
 | [2308-divide-array-into-equal-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2442-number-of-arithmetic-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/2442-number-of-arithmetic-triplets) |
+| [2448-count-number-of-bad-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
@@ -230,6 +231,7 @@ A repository made with passion towards coding and problem solving
 | [2238-a-number-after-a-double-reversal](https://github.com/saivikassingamsetty/DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/saivikassingamsetty/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/2383-add-two-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2571-find-the-pivot-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
@@ -302,6 +304,7 @@ A repository made with passion towards coding and problem solving
 | [2372-rearrange-characters-to-make-target-string](https://github.com/saivikassingamsetty/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/saivikassingamsetty/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/2442-number-of-arithmetic-triplets) |
+| [2448-count-number-of-bad-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/saivikassingamsetty/DSA/tree/master/2455-node-with-highest-edge-score) |
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
 | [2487-optimal-partition-of-string](https://github.com/saivikassingamsetty/DSA/tree/master/2487-optimal-partition-of-string) |
@@ -592,6 +595,7 @@ A repository made with passion towards coding and problem solving
 | [2308-divide-array-into-equal-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/saivikassingamsetty/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/saivikassingamsetty/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2448-count-number-of-bad-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
