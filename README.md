@@ -950,6 +950,7 @@ A repository made with passion towards coding and problem solving
 | [1876-map-of-highest-peak](https://github.com/saivikassingamsetty/DSA/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Graph
@@ -967,6 +968,7 @@ A repository made with passion towards coding and problem solving
 | [2121-find-if-path-exists-in-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2455-node-with-highest-edge-score](https://github.com/saivikassingamsetty/DSA/tree/master/2455-node-with-highest-edge-score) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3189-find-champion-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3189-find-champion-ii) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Dynamic Programming
