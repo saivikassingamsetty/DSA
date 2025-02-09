@@ -165,6 +165,7 @@ A repository made with passion towards coding and problem solving
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2792-neighboring-bitwise-xor) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/saivikassingamsetty/DSA/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saivikassingamsetty/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/saivikassingamsetty/DSA/tree/master/2892-check-if-array-is-good) |
@@ -998,6 +999,7 @@ A repository made with passion towards coding and problem solving
 | [1761-count-sorted-vowel-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/saivikassingamsetty/DSA/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/saivikassingamsetty/DSA/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Shortest Path
 |  |
