@@ -63,6 +63,7 @@ A repository made with passion towards coding and problem solving
 | [0463-island-perimeter](https://github.com/saivikassingamsetty/DSA/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/saivikassingamsetty/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
@@ -695,6 +696,7 @@ A repository made with passion towards coding and problem solving
 | [0090-subsets-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -995,6 +997,7 @@ A repository made with passion towards coding and problem solving
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/saivikassingamsetty/DSA/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0639-decode-ways-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0639-decode-ways-ii) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
