@@ -4,17 +4,28 @@
  * @return {number}
  */
 var findTargetSumWays = function (nums, target) {
-    let memo = new Map();
+    let n = nums.length;
+    let sum = nums.reduce((a, i) => a + i, 0);
 
-    const findWays = (i, t) => {
-        if (i == -1) return t == 0 ? 1 : 0;
+    if (Math.abs(target) > sum) return 0;
 
-        let key = `${i},${t}`;
+    let dp = new Array(2 * sum + 1).fill(0);
 
-        if (!memo.has(key)) memo.set(key, findWays(i - 1, t - nums[i]) + findWays(i - 1, t + nums[i]));
+    //base case
+    let offset = sum;
+    dp[nums[0] + offset] = 1;
+    dp[-nums[0] + offset] += 1;
 
-        return memo.get(key);
+    for (let i = 1; i < n; i++) {
+        let next = new Array(2 * sum + 1).fill(0);
+        for (let t = -sum; t <= sum; t++) {
+            if (dp[t + offset] > 0) {
+                next[t + nums[i] + offset] += dp[t + offset];
+                next[t - nums[i] + offset] += dp[t + offset];
+            }
+        }
+        dp = next;
     }
 
-    return findWays(nums.length - 1, target);
+    return dp[target + offset];
 };
