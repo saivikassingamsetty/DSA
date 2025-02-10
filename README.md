@@ -90,6 +90,7 @@ A repository made with passion towards coding and problem solving
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1022-unique-paths-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1022-unique-paths-iii) |
+| [1025-minimum-cost-for-tickets](https://github.com/saivikassingamsetty/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/saivikassingamsetty/DSA/tree/master/1028-interval-list-intersections) |
 | [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/saivikassingamsetty/DSA/tree/master/1073-number-of-enclaves) |
@@ -1007,6 +1008,7 @@ A repository made with passion towards coding and problem solving
 | [0747-min-cost-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0972-knight-dialer](https://github.com/saivikassingamsetty/DSA/tree/master/0972-knight-dialer) |
+| [1025-minimum-cost-for-tickets](https://github.com/saivikassingamsetty/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1761-count-sorted-vowel-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/saivikassingamsetty/DSA/tree/master/2205-find-good-days-to-rob-the-bank) |
