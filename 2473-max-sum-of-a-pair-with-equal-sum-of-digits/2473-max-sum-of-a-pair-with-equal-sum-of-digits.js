@@ -4,7 +4,17 @@
  */
 var maximumSum = function (nums) {
     nums.sort((a, b) => a - b);
-    let sum = nums.map(i => String(i).split('').map(Number).reduce((a, it) => a + it, 0));
+
+    let sum = [];
+    let s = 0;
+    for (let num of nums) {
+        s = 0;
+        while (num > 0) {
+            s += num % 10;
+            num = Math.floor(num / 10);
+        }
+        sum.push(s);
+    }
 
     //need rightmost index of same sum (maximum)
     let dict = {};
