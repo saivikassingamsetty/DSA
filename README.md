@@ -62,6 +62,7 @@ A repository made with passion towards coding and problem solving
 | [0442-find-all-duplicates-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/saivikassingamsetty/DSA/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/saivikassingamsetty/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
@@ -349,6 +350,7 @@ A repository made with passion towards coding and problem solving
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/saivikassingamsetty/DSA/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
@@ -1004,6 +1006,7 @@ A repository made with passion towards coding and problem solving
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/saivikassingamsetty/DSA/tree/master/0403-frog-jump) |
+| [0474-ones-and-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0639-decode-ways-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0639-decode-ways-ii) |
