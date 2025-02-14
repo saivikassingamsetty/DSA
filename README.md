@@ -104,6 +104,7 @@ A repository made with passion towards coding and problem solving
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1477-product-of-the-last-k-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saivikassingamsetty/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/saivikassingamsetty/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saivikassingamsetty/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -224,6 +225,7 @@ A repository made with passion towards coding and problem solving
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/saivikassingamsetty/DSA/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -465,6 +467,7 @@ A repository made with passion towards coding and problem solving
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saivikassingamsetty/DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
+| [1477-product-of-the-last-k-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/saivikassingamsetty/DSA/tree/master/1833-find-the-highest-altitude) |
@@ -614,6 +617,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saivikassingamsetty/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 ## Matrix
@@ -1094,4 +1098,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/saivikassingamsetty/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
