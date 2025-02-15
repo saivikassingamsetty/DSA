@@ -755,6 +755,7 @@ A repository made with passion towards coding and problem solving
 | [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saivikassingamsetty/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
@@ -930,6 +931,7 @@ A repository made with passion towards coding and problem solving
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
@@ -962,6 +964,7 @@ A repository made with passion towards coding and problem solving
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
@@ -982,6 +985,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
@@ -1035,6 +1039,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Union Find
 |  |
