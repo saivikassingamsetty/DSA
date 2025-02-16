@@ -4,27 +4,32 @@
  * @return {number}
  */
 var findMedianSortedArrays = function (nums1, nums2) {
-    const sorted = (nums1, nums2) => {
-        let nums3 = [];
-        let i = 0;
-        let j = 0;
+    let prev = 0;
+    let current = 0;
+    let i = 0;
+    let j = 0;
+    let k = 0;
+    let total = nums1.length + nums2.length;
+    let mid = Math.floor((nums1.length + nums2.length) / 2);
 
-        while (i < nums1.length && j < nums2.length) {
-            if (nums1[i] <= nums2[j]) nums3.push(nums1[i++]);
-            else nums3.push(nums2[j++]);
+    while (k < total) {
+        if (i < nums1.length && j < nums2.length) {
+            current = nums1[i] <= nums2[j] ? nums1[i++] : nums2[j++];
+        } else if (j < nums2.length) {
+            current = nums2[j++];
+        } else {
+            current = nums1[i++];
         }
 
-        while (i < nums1.length) nums3.push(nums1[i++]);
-        while (j < nums2.length) nums3.push(nums2[j++]);
+        if (total % 2 == 0 && k == mid - 1) prev = current;
+        if (k == mid) {
+            if (total % 2) {
+                return current;
+            } else {
+                return (prev + current) / 2;
+            }
+        }
 
-        return nums3;
+        k++;
     }
-
-    const median = (arr) => {
-        let mid = Math.floor(arr.length / 2);
-        return (arr.length % 2 ? arr[mid] : (arr[mid] + arr[mid - 1]) / 2);
-    }
-
-
-    return median(sorted(nums1, nums2));
 };
