@@ -976,6 +976,7 @@ A repository made with passion towards coding and problem solving
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1876-map-of-highest-peak](https://github.com/saivikassingamsetty/DSA/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2121-find-if-path-exists-in-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/saivikassingamsetty/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -994,6 +995,7 @@ A repository made with passion towards coding and problem solving
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2121-find-if-path-exists-in-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/saivikassingamsetty/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2455-node-with-highest-edge-score](https://github.com/saivikassingamsetty/DSA/tree/master/2455-node-with-highest-edge-score) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2671-shortest-cycle-in-a-graph) |
@@ -1041,6 +1043,7 @@ A repository made with passion towards coding and problem solving
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/saivikassingamsetty/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Union Find
 |  |
 | ------- |
