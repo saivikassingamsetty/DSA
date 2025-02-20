@@ -139,6 +139,7 @@ A repository made with passion towards coding and problem solving
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2048-build-array-from-permutation](https://github.com/saivikassingamsetty/DSA/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/2102-find-the-middle-index-in-array) |
+| [2107-find-unique-binary-string](https://github.com/saivikassingamsetty/DSA/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saivikassingamsetty/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/saivikassingamsetty/DSA/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -306,6 +307,7 @@ A repository made with passion towards coding and problem solving
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saivikassingamsetty/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1945-finding-the-users-active-minutes](https://github.com/saivikassingamsetty/DSA/tree/master/1945-finding-the-users-active-minutes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saivikassingamsetty/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2107-find-unique-binary-string](https://github.com/saivikassingamsetty/DSA/tree/master/2107-find-unique-binary-string) |
 | [2240-intervals-between-identical-elements](https://github.com/saivikassingamsetty/DSA/tree/master/2240-intervals-between-identical-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/saivikassingamsetty/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -397,6 +399,7 @@ A repository made with passion towards coding and problem solving
 | [1954-replace-all-digits-with-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saivikassingamsetty/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/saivikassingamsetty/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/saivikassingamsetty/DSA/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saivikassingamsetty/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/saivikassingamsetty/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -725,6 +728,7 @@ A repository made with passion towards coding and problem solving
 | [1160-letter-tile-possibilities](https://github.com/saivikassingamsetty/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/saivikassingamsetty/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2107-find-unique-binary-string](https://github.com/saivikassingamsetty/DSA/tree/master/2107-find-unique-binary-string) |
 ## Combinatorics
 |  |
 | ------- |
