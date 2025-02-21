@@ -294,6 +294,7 @@ A repository made with passion towards coding and problem solving
 | [1160-letter-tile-possibilities](https://github.com/saivikassingamsetty/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/saivikassingamsetty/DSA/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -630,6 +631,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saivikassingamsetty/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
@@ -835,6 +837,7 @@ A repository made with passion towards coding and problem solving
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/saivikassingamsetty/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -867,6 +870,7 @@ A repository made with passion towards coding and problem solving
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/saivikassingamsetty/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saivikassingamsetty/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Linked List
@@ -953,6 +957,7 @@ A repository made with passion towards coding and problem solving
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/saivikassingamsetty/DSA/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/saivikassingamsetty/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -986,6 +991,7 @@ A repository made with passion towards coding and problem solving
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/saivikassingamsetty/DSA/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
