@@ -3,48 +3,35 @@
  * @return {string[][]}
  */
 var solveNQueens = function (n) {
-    let res = Array.from({ length: n }, () => new Array(n).fill('.'));
-    let finalRes = [];
-
-    const isValid = (row, col) => {
-        //row
-        for (let j = 0; j < n; j++) {
-            if (res[row][j] == 'Q') return false;
-        }
-
-        //col
-        for (let i = 0; i < n; i++) {
-            if (res[i][col] == 'Q') return false;
-        }
-
-        //diagnol-1
-        for (let i = -n; i < n; i++) {
-            if (row + i >= 0 && row + i < n && col + i >= 0 && col + i < n && res[row + i][col + i] == 'Q') return false;
-        }
-
-        //diagnol-2
-        for (let i = -n; i < n; i++) {
-            if (row + i >= 0 && row + i < n && col - i >= 0 && col - i < n && res[row + i][col - i] == 'Q') return false;
-        }
-
-        return true;
-    }
+    let board = Array.from({ length: n }, () => new Array(n).fill('.'));
+    let res = [];
+    const cols = new Array(n).fill(0);
+    const upperDiagonal = new Array(2 * n - 1).fill(0);
+    const lowerDiagonal = new Array(2 * n - 1).fill(0);
 
     const solve = (row) => {
         if (row == n) {
-            finalRes.push(JSON.parse(JSON.stringify(res)));
+            res.push(board.map(row => row.join('')));
             return;
         }
 
         for (let col = 0; col < n; col++) {
-            if (isValid(row, col)) {
-                res[row][col] = 'Q';
+            if (!cols[col] && !upperDiagonal[row + col] && !lowerDiagonal[n - 1 + col - row]) {
+                board[row][col] = 'Q';
+                cols[col] = 1;
+                upperDiagonal[row + col] = 1;
+                lowerDiagonal[n - 1 + col - row] = 1;
+
                 solve(row + 1);
-                res[row][col] = '.';
+
+                board[row][col] = '.';
+                cols[col] = 0;
+                upperDiagonal[row + col] = 0;
+                lowerDiagonal[n - 1 + col - row] = 0;
             }
         }
     }
 
     solve(0);
-    return finalRes.map(res => res.map(row => row.join('')));
+    return res;
 };
