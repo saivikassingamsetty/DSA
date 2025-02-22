@@ -376,6 +376,7 @@ A repository made with passion towards coding and problem solving
 | [0851-goat-latin](https://github.com/saivikassingamsetty/DSA/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/saivikassingamsetty/DSA/tree/master/0857-positions-of-large-groups) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -836,6 +837,7 @@ A repository made with passion towards coding and problem solving
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/saivikassingamsetty/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -869,6 +871,7 @@ A repository made with passion towards coding and problem solving
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/saivikassingamsetty/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -956,6 +959,7 @@ A repository made with passion towards coding and problem solving
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/saivikassingamsetty/DSA/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/saivikassingamsetty/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
