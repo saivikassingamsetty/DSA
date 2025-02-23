@@ -12,17 +12,24 @@
  * @return {TreeNode}
  */
 var buildTree = function (preorder, inorder) {
-    if (!preorder.length) return null;
+    let indexMap = new Map();
+    for (let i = 0; i < inorder.length; i++) {
+        indexMap.set(inorder[i], i);
+    }
 
-    //first node in preorder will be thr root
-    let node = new TreeNode(preorder[0]);
+    preorderIndex = 0;
 
-    //find index in inorder
-    let id = inorder.indexOf(preorder[0]);
+    const constructTree = (leftIndex, rightIndex) => {
+        if (leftIndex > rightIndex) return null;
 
-    //recursively build left and right
-    node.left = buildTree(preorder.slice(1, 1 + id), inorder.slice(0, id));
-    node.right = buildTree(preorder.slice(id + 1), inorder.slice(id + 1));
+        let val = preorder[preorderIndex++];
+        let node = new TreeNode(val);
 
-    return node;
+        node.left = constructTree(leftIndex, indexMap.get(val) - 1);
+        node.right = constructTree(indexMap.get(val) + 1, rightIndex);
+
+        return node;
+    }
+
+    return constructTree(0, inorder.length - 1);
 };
