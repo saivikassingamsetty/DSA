@@ -1,21 +1,21 @@
 var serialize = function (root) {
     if (!root) return '';
 
-    const preorder = [];
+    const postOrder = [];
 
-    const traversePreorder = (node) => {
+    const traverse = (node) => {
         if (!node) {
-            preorder.push("null");
+            postOrder.push("null");
             return;
         }
-        preorder.push(node.val.toString());
-        traversePreorder(node.left);
-        traversePreorder(node.right);
+        traverse(node.left);
+        traverse(node.right);
+        postOrder.push(node.val.toString());
     };
 
-    traversePreorder(root);
+    traverse(root);
 
-    return preorder.join(' ');
+    return postOrder.join(' ');
 };
 
 var deserialize = function (data) {
@@ -23,12 +23,12 @@ var deserialize = function (data) {
     data = data.split(' ');
 
     function buildTree() {
-        const val = data.shift();
+        const val = data.pop();
         if (val === "null") return null;
-        
+
         const node = new TreeNode(Number(val));
-        node.left = buildTree();
         node.right = buildTree();
+        node.left = buildTree();
         return node;
     }
 
