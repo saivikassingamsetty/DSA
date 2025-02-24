@@ -349,6 +349,7 @@ A repository made with passion towards coding and problem solving
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/saivikassingamsetty/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/saivikassingamsetty/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/saivikassingamsetty/DSA/tree/master/0049-group-anagrams) |
@@ -731,6 +732,7 @@ A repository made with passion towards coding and problem solving
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saivikassingamsetty/DSA/tree/master/0046-permutations) |
@@ -1067,6 +1069,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
