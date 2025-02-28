@@ -382,6 +382,7 @@ A repository made with passion towards coding and problem solving
 | [0520-detect-capital](https://github.com/saivikassingamsetty/DSA/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0639-decode-ways-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0639-decode-ways-ii) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
@@ -1098,6 +1099,7 @@ A repository made with passion towards coding and problem solving
 | [0474-ones-and-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0639-decode-ways-ii) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0747-min-cost-climbing-stairs) |
