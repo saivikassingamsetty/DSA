@@ -193,6 +193,7 @@ A repository made with passion towards coding and problem solving
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saivikassingamsetty/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/saivikassingamsetty/DSA/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/saivikassingamsetty/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -259,6 +260,7 @@ A repository made with passion towards coding and problem solving
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
+| [3227-find-missing-and-repeated-values](https://github.com/saivikassingamsetty/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -347,6 +349,7 @@ A repository made with passion towards coding and problem solving
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/saivikassingamsetty/DSA/tree/master/2892-check-if-array-is-good) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/saivikassingamsetty/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/saivikassingamsetty/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -697,6 +700,7 @@ A repository made with passion towards coding and problem solving
 | [2631-sort-the-students-by-their-kth-score](https://github.com/saivikassingamsetty/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/saivikassingamsetty/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3330-modify-the-matrix) |
 ## Geometry
 |  |
