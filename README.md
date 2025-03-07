@@ -256,6 +256,7 @@ A repository made with passion towards coding and problem solving
 | [2448-count-number-of-bad-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2571-find-the-pivot-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2571-find-the-pivot-integer) |
+| [2610-closest-prime-numbers-in-range](https://github.com/saivikassingamsetty/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/saivikassingamsetty/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -1152,6 +1153,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/saivikassingamsetty/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
 ## String Matching
 |  |
