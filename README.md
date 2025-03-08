@@ -436,6 +436,7 @@ A repository made with passion towards coding and problem solving
 | [2372-rearrange-characters-to-make-target-string](https://github.com/saivikassingamsetty/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2401-count-asterisks](https://github.com/saivikassingamsetty/DSA/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/saivikassingamsetty/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2487-optimal-partition-of-string](https://github.com/saivikassingamsetty/DSA/tree/master/2487-optimal-partition-of-string) |
@@ -961,6 +962,7 @@ A repository made with passion towards coding and problem solving
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Recursion
 |  |
 | ------- |
