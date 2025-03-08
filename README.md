@@ -16,6 +16,7 @@ A repository made with passion towards coding and problem solving
 | [0033-search-in-rotated-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saivikassingamsetty/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/saivikassingamsetty/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/saivikassingamsetty/DSA/tree/master/0041-first-missing-positive) |
@@ -272,6 +273,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saivikassingamsetty/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/saivikassingamsetty/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/saivikassingamsetty/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/saivikassingamsetty/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -674,6 +676,7 @@ A repository made with passion towards coding and problem solving
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saivikassingamsetty/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/saivikassingamsetty/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -754,6 +757,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/saivikassingamsetty/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saivikassingamsetty/DSA/tree/master/0046-permutations) |
