@@ -203,6 +203,7 @@ A repository made with passion towards coding and problem solving
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/saivikassingamsetty/DSA/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3463-alternating-groups-i](https://github.com/saivikassingamsetty/DSA/tree/master/3463-alternating-groups-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -968,6 +969,7 @@ A repository made with passion towards coding and problem solving
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3463-alternating-groups-i](https://github.com/saivikassingamsetty/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3483-alternating-groups-ii) |
 ## Recursion
 |  |
