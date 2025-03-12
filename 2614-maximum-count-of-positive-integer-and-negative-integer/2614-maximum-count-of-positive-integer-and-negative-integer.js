@@ -48,7 +48,6 @@ var maximumCount = function (nums) {
 
     const leftMostPositiveIndex = binarySearchLeft(1);
     const rightMostNegativeIndex = binarySearchRight(-1);
-    console.log(leftMostPositiveIndex, rightMostNegativeIndex)
     const negativeCount = rightMostNegativeIndex == -1 ? 0 : rightMostNegativeIndex + 1;
     const positiveCount = leftMostPositiveIndex == -1 ? 0 : nums.length - leftMostPositiveIndex;
 
