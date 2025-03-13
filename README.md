@@ -208,6 +208,7 @@ A repository made with passion towards coding and problem solving
 | [3483-alternating-groups-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
+| [3639-zero-array-transformation-i](https://github.com/saivikassingamsetty/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A repository made with passion towards coding and problem solving
 | [2714-left-and-right-sum-differences](https://github.com/saivikassingamsetty/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/saivikassingamsetty/DSA/tree/master/2721-sum-of-distances) |
+| [3639-zero-array-transformation-i](https://github.com/saivikassingamsetty/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Enumeration
 |  |
 | ------- |
