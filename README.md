@@ -178,6 +178,7 @@ A repository made with passion towards coding and problem solving
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/saivikassingamsetty/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/saivikassingamsetty/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2690-house-robber-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2690-house-robber-iv) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/saivikassingamsetty/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -643,6 +644,7 @@ A repository made with passion towards coding and problem solving
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/saivikassingamsetty/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2690-house-robber-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
