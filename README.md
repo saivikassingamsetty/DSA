@@ -214,6 +214,7 @@ A repository made with passion towards coding and problem solving
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
 | [3639-zero-array-transformation-i](https://github.com/saivikassingamsetty/DSA/tree/master/3639-zero-array-transformation-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Math
 |  |
 | ------- |
@@ -512,6 +513,7 @@ A repository made with passion towards coding and problem solving
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -834,6 +836,7 @@ A repository made with passion towards coding and problem solving
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saivikassingamsetty/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Bucket Sort
 |  |
 | ------- |
