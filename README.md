@@ -161,6 +161,7 @@ A repository made with passion towards coding and problem solving
 | [2265-partition-array-according-to-given-pivot](https://github.com/saivikassingamsetty/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saivikassingamsetty/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/saivikassingamsetty/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saivikassingamsetty/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2411-spiral-matrix-iv) |
@@ -448,6 +449,7 @@ A repository made with passion towards coding and problem solving
 | [2107-find-unique-binary-string](https://github.com/saivikassingamsetty/DSA/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saivikassingamsetty/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/saivikassingamsetty/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/saivikassingamsetty/DSA/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2401-count-asterisks](https://github.com/saivikassingamsetty/DSA/tree/master/2401-count-asterisks) |
@@ -1193,6 +1195,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Interactive
 |  |
