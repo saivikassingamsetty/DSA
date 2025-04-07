@@ -64,6 +64,7 @@ A repository made with passion towards coding and problem solving
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/saivikassingamsetty/DSA/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -1164,6 +1165,7 @@ A repository made with passion towards coding and problem solving
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/saivikassingamsetty/DSA/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
