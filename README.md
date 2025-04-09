@@ -223,6 +223,7 @@ A repository made with passion towards coding and problem solving
 | [3483-alternating-groups-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/saivikassingamsetty/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saivikassingamsetty/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -381,6 +382,7 @@ A repository made with passion towards coding and problem solving
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saivikassingamsetty/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
