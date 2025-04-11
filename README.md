@@ -284,6 +284,7 @@ A repository made with passion towards coding and problem solving
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
+| [2998-count-symmetric-integers](https://github.com/saivikassingamsetty/DSA/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/saivikassingamsetty/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -568,6 +569,7 @@ A repository made with passion towards coding and problem solving
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
+| [2998-count-symmetric-integers](https://github.com/saivikassingamsetty/DSA/tree/master/2998-count-symmetric-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Simulation
 |  |
