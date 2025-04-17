@@ -292,6 +292,7 @@ A repository made with passion towards coding and problem solving
 | [3567-convert-date-to-binary](https://github.com/saivikassingamsetty/DSA/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saivikassingamsetty/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/saivikassingamsetty/DSA/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
 | ------- |
