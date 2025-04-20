@@ -5,34 +5,21 @@
  * @return {boolean}
  */
 var isInterleave = function (s1, s2, s3) {
-    const memo = new Map();
+    const memo = Array.from({ length: s1.length + 1 }, () => new Array(s2.length + 1).fill(undefined));
 
-    const dfs = (i, j, k) => {
-        let key = `${i},${j},${k}`;
-
-        if (!memo.has(key)) {
-            if (i >= s1.length && j >= s2.length) {
-                return k == s3.length;
+    const dfs = (i, j) => {
+        if (memo[i][j] == undefined) {
+            if (i >= s1.length && j >= s2.length && i + j >= s3.length) {
+                return true;
             }
 
-            let prevI = i;
-            let prevK = k;
+            if (i + j >= s3.length) return false;
 
-            let val = false;
-
-            while (i < s1.length && k < s3.length && s1[i] == s3[k]) {
-                val |= dfs(++i, j, ++k);
-            }
-
-            while (j < s2.length && prevK < s3.length && s2[j] == s3[prevK]) {
-                val |= dfs(prevI, ++j, ++prevK);
-            }
-
-            memo.set(key, val);
+            memo[i][j] = (s1[i] == s3[i + j] && dfs(i + 1, j)) || (s2[j] == s3[i + j] && dfs(i, j + 1));
         }
 
-        return memo.get(key);
+        return memo[i][j]
     }
 
-    return dfs(0, 0, 0);
+    return dfs(0, 0);
 };
