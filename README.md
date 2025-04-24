@@ -195,6 +195,7 @@ A repository made with passion towards coding and problem solving
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/saivikassingamsetty/DSA/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saivikassingamsetty/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/saivikassingamsetty/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
@@ -376,6 +377,7 @@ A repository made with passion towards coding and problem solving
 | [2721-sum-of-distances](https://github.com/saivikassingamsetty/DSA/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/saivikassingamsetty/DSA/tree/master/2825-minimize-string-length) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/saivikassingamsetty/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2889-number-of-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/saivikassingamsetty/DSA/tree/master/2892-check-if-array-is-good) |
@@ -1018,6 +1020,7 @@ A repository made with passion towards coding and problem solving
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/2478-longest-nice-subarray) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3463-alternating-groups-i](https://github.com/saivikassingamsetty/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3483-alternating-groups-ii) |
 ## Recursion
