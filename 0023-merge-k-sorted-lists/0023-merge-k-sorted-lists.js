@@ -19,35 +19,33 @@ const merge = (ll1, ll2) => {
 
     while (temp1 && temp2) {
         if (temp1.val < temp2.val) {
-            temp3.next = new ListNode(temp1.val);
+            temp3.next = temp1;
             temp1 = temp1.next;
         } else {
-            temp3.next = new ListNode(temp2.val);
+            temp3.next = temp2;
             temp2 = temp2.next;
         }
 
         temp3 = temp3.next;
     }
 
-    while (temp1) {
-        temp3.next = new ListNode(temp1.val);
-        temp1 = temp1.next;
-        temp3 = temp3.next;
-    }
-
-    while (temp2) {
-        temp3.next = new ListNode(temp2.val);
-        temp2 = temp2.next;
-        temp3 = temp3.next;
-    }
+    temp3.next = temp1 || temp2;
 
     return ll3.next;
 }
 
 var mergeKLists = function (lists) {
     if (!lists || !lists.length) return null;
-    if (lists.length < 2) return lists[0];
 
-    let lastll = lists.pop();
-    return merge(mergeKLists(lists), lastll);
+    let interval = 1;
+
+    while (interval < lists.length) {
+        for (let i = 0; i < lists.length - interval; i += 2 * interval) {
+            lists[i] = merge(lists[i], lists[i + interval]);
+        }
+
+        interval *= 2;
+    }
+
+    return lists[0];
 };
