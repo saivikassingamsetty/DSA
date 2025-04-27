@@ -404,6 +404,7 @@ A repository made with passion towards coding and problem solving
 | [0038-count-and-say](https://github.com/saivikassingamsetty/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/saivikassingamsetty/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/saivikassingamsetty/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
@@ -1179,6 +1180,7 @@ A repository made with passion towards coding and problem solving
 | [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/saivikassingamsetty/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0118-pascals-triangle) |
