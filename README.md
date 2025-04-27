@@ -35,6 +35,7 @@ A repository made with passion towards coding and problem solving
 | [0073-set-matrix-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -903,6 +904,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0020-valid-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saivikassingamsetty/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
@@ -958,6 +960,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saivikassingamsetty/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
