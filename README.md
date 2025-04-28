@@ -398,6 +398,7 @@ A repository made with passion towards coding and problem solving
 | [0003-longest-substring-without-repeating-characters](https://github.com/saivikassingamsetty/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/saivikassingamsetty/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/saivikassingamsetty/DSA/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -1044,6 +1045,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/saivikassingamsetty/DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saivikassingamsetty/DSA/tree/master/0025-reverse-nodes-in-k-group) |
@@ -1173,6 +1175,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/saivikassingamsetty/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saivikassingamsetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0045-jump-game-ii) |
