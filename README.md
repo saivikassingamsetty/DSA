@@ -36,6 +36,7 @@ A repository made with passion towards coding and problem solving
 | [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -738,6 +739,7 @@ A repository made with passion towards coding and problem solving
 | [0054-spiral-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/saivikassingamsetty/DSA/tree/master/0289-game-of-life) |
@@ -913,6 +915,7 @@ A repository made with passion towards coding and problem solving
 | [0032-longest-valid-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saivikassingamsetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
@@ -969,6 +972,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saivikassingamsetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
@@ -1191,6 +1195,7 @@ A repository made with passion towards coding and problem solving
 | [0062-unique-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/saivikassingamsetty/DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0118-pascals-triangle) |
