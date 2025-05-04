@@ -34,6 +34,7 @@ A repository made with passion towards coding and problem solving
 | [0059-spiral-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/saivikassingamsetty/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/saivikassingamsetty/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -512,6 +513,7 @@ A repository made with passion towards coding and problem solving
 | [0018-4sum](https://github.com/saivikassingamsetty/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/saivikassingamsetty/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/saivikassingamsetty/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -636,6 +638,7 @@ A repository made with passion towards coding and problem solving
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/saivikassingamsetty/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/saivikassingamsetty/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/saivikassingamsetty/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0088-merge-sorted-array) |
