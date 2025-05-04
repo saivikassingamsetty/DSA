@@ -45,6 +45,7 @@ A repository made with passion towards coding and problem solving
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/saivikassingamsetty/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
@@ -314,6 +315,7 @@ A repository made with passion towards coding and problem solving
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/saivikassingamsetty/DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/saivikassingamsetty/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saivikassingamsetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
@@ -1256,6 +1258,7 @@ A repository made with passion towards coding and problem solving
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saivikassingamsetty/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
