@@ -263,6 +263,7 @@ A repository made with passion towards coding and problem solving
 | [0263-ugly-number](https://github.com/saivikassingamsetty/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/saivikassingamsetty/DSA/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/saivikassingamsetty/DSA/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/saivikassingamsetty/DSA/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
@@ -1309,6 +1310,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saivikassingamsetty/DSA/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/saivikassingamsetty/DSA/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saivikassingamsetty/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Trie
 |  |
