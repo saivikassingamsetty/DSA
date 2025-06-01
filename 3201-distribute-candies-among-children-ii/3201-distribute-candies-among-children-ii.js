@@ -7,9 +7,7 @@ var distributeCandies = function (n, limit) {
     let res = 0;
     let ways = 0;
 
-    for (let i = 0; i <= limit; i++) {
-        if (i > n) continue
-
+    for (let i = 0; i <= Math.min(n, limit); i++) {
         //Number of ways to distribute (n-i) candies to 2 children
         // let say remianing are 8 and limit is 8, 0,8, 1,7, (2,6) (3,5), (4,4), (5,3), (6,2), 7,1, 8,0 -9
         // let say remianing are 8 and limit is 7, 1,7, (2,6) (3,5), (4,4), (5,3), (6,2), 7,1 - 7
