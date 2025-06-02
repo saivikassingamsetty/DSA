@@ -5,14 +5,14 @@
 var threeSum = function (nums) {
     let res = [];
     nums.sort((a, b) => a - b);
-    let map = {};
 
-    //hashmap to store last index of each item
-    for (let i = 0; i < nums.length; i++) {
-        map[nums[i]] = i;
-    }
-
-    //using 2 pointer and hashmap
+    //using 3 pointer, but its hard to manage so we will fix one
+    //algo: for each item, we will find other 2 inbetween (i+1, n) using 2 pointer such that sum is 0
+    //Main thing to take care is skip the duplicates when encounter one
+    //as we sorted at first, at each iteration in 2 pointer is sum is greater than 0
+    //we will move k backward
+    //else we will move j forward
+    //if we found sum 0, we will track the result
 
     for (let i = 0; i < nums.length; i++) {
         //skip duplicates
@@ -22,24 +22,24 @@ var threeSum = function (nums) {
 
         //for valid i
         let j = i + 1;
+        let k = nums.length - 1;
 
-        while (j < nums.length) {
-            //skip duplicates
-            //here j != i+1 is important else it will be skipping cases like [-1, -1, 2] because i and i+1 are same ones
-            if (j != i + 1 && nums[j] == nums[j - 1]) {
+        while (j < k) {
+            let total = nums[i] + nums[j] + nums[k];
+            if (total > 0) {
+                k--;
+            } else if (total < 0) {
                 j++;
-                continue;
-            }
-
-            let key = -(nums[i] + nums[j]);
-            if (key in map) {
-                //to skip the duplicates
-                if (map[key] > j) {
-                    res.push([nums[i], nums[j], key]);
+            } else {
+                //valid triplet
+                res.push([nums[i], nums[j], nums[k]]);
+                j++;
+                
+                //to skip duplicates
+                while (j < k && nums[j] == nums[j - 1]) {
+                    j++;
                 }
             }
-
-            j++;
         }
     }
 
