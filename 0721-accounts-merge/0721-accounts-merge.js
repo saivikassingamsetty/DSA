@@ -5,6 +5,8 @@
 var accountsMerge = function (accounts) {
     let parents = new Map();
     let names = new Map();
+    let emailsGroup = new Map();
+    let res = [];
 
     function find(node) {
         if (parents.get(node) !== node) {
@@ -37,7 +39,6 @@ var accountsMerge = function (accounts) {
         }
     }
 
-    let emailsGroup = new Map();
     for (let email of parents.keys()) {
         const root = find(email);
         if (!emailsGroup.has(root)) {
@@ -46,7 +47,6 @@ var accountsMerge = function (accounts) {
         emailsGroup.set(root, emailsGroup.get(root).add(email));
     }
 
-    let res = [];
     for (let [emailRoot, emails] of emailsGroup) {
         let name = names.get(emailRoot);
         let emailsCopy = [...emails].sort((a, b) => {
