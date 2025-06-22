@@ -4,42 +4,32 @@
  * @return {number}
  */
 var search = function (nums, target) {
-    function searchItem(l, r) {
-        let mid;
+    let l = 0;
+    let r = nums.length - 1;
 
-        while (l <= r) {
-            mid = l + Math.floor((r - l) / 2);
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] > target) {
+    while (l <= r) {
+        let mid = Math.floor((l + r) / 2);
+        if (nums[mid] == target) return mid
+
+        //we need to divide the search space now
+        // left is sorted
+        if (nums[l] <= nums[mid]) {
+            // if exists in left space
+            if (nums[l] <= target && target <= nums[mid]) {
                 r = mid - 1;
             } else {
                 l = mid + 1;
             }
         }
-
-        return -1;
-    }
-
-    //find the pivot point, if target > pivot and target > end, search in first sorted
-    //else search in second sorted
-
-    let left = 0;
-    let right = nums.length - 1;
-    let mid;
-
-    while (left < right - 1) {
-        mid = left + Math.floor((right - left) / 2);
-        if (nums[left] > nums[mid]) {
-            right = mid;
-        } else {
-            left = mid;
+        // right sorted
+        else {
+            if (nums[mid] <= target && target <= nums[r]) {
+                l = mid + 1;
+            } else {
+                r = mid - 1;
+            }
         }
     }
 
-    //left holds the end of first sorted
-    //right holds first of second sorted
-    if (target <= nums[left] && target >= nums[0]) return searchItem(0, left);
-
-    return searchItem(right, nums.length - 1);
+    return -1;
 };
