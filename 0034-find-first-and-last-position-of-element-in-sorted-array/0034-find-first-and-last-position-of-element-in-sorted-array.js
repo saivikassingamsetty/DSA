@@ -4,36 +4,20 @@
  * @return {number[]}
  */
 var searchRange = function (nums, target) {
-    let low = 0;
-    let high = nums.length - 1;
-    let first = -1;
+    let [l1, l2, r1, r2] = [0, 0, nums.length - 1, nums.length - 1];
+    let mid;
 
-    while (low <= high) {
-        let mid = Math.floor((high + low) / 2);
-        if (nums[mid] == target) {
-            first = mid;
-            high = mid - 1
-        } else if (nums[mid] < target) {
-            low = mid + 1;
-        } else {
-            high = mid - 1;
-        }
+    while (l1 < r1) {
+        mid = Math.floor((l1 + r1) / 2);
+        if (nums[mid] < target) l1 = mid + 1
+        else r1 = mid
     }
 
-    low = 0;
-    high = nums.length - 1;
-    let last = -1;
-    while (low <= high) {
-        let mid = Math.floor((high + low) / 2);
-        if (nums[mid] == target) {
-            last = mid;
-            low = mid + 1
-        } else if (nums[mid] < target) {
-            low = mid + 1;
-        } else {
-            high = mid - 1;
-        }
+    while (l2 < r2) {
+        mid = Math.floor((l2 + r2 + 1) / 2);
+        if (nums[mid] > target) r2 = mid - 1
+        else l2 = mid
     }
 
-    return [first, last];
+    return [(nums[l1] === target ? l1 : -1), (nums[l2] === target ? l2 : -1)]
 };
