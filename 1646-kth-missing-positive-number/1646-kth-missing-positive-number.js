@@ -4,16 +4,22 @@
  * @return {number}
  */
 var findKthPositive = function (arr, k) {
-    let miss = 0;
+    //edge case 1 if k < first elem
+    if (k < arr[0]) return k
 
-    for (let i = 0; i < arr.length; i++) {
-        let m = arr[i] - (arr[i - 1] ?? 0) - 1;
-        if (miss + m >= k) {
-            return (arr[i - 1] ?? 0) + (k - miss);
-        }
+    //edge case 2 if k > last elem
+    if (k > (arr[arr.length - 1] - arr.length)) return k + arr.length;
 
-        miss += m;
+    let l = 0;
+    let r = arr.length - 1;
+
+    while (l < r) {
+        let mid = Math.floor((l + r + 1) / 2);
+        const missingAtMid = arr[mid] - (mid + 1);
+        if (missingAtMid >= k) r = mid - 1
+        else l = mid
     }
 
-    return arr[arr.length - 1] + (k - miss);
-};
+    const missingLeft = arr[l] - (l + 1);
+    return arr[l] + (k - missingLeft);
+};  
