@@ -430,6 +430,7 @@ A repository made with passion towards coding and problem solving
 | [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/saivikassingamsetty/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/saivikassingamsetty/DSA/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -1361,6 +1362,7 @@ A repository made with passion towards coding and problem solving
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
