@@ -301,6 +301,7 @@ A repository made with passion towards coding and problem solving
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saivikassingamsetty/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/saivikassingamsetty/DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/saivikassingamsetty/DSA/tree/master/2288-count-operations-to-obtain-zero) |
@@ -505,6 +506,7 @@ A repository made with passion towards coding and problem solving
 | [1954-replace-all-digits-with-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saivikassingamsetty/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/saivikassingamsetty/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/saivikassingamsetty/DSA/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saivikassingamsetty/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -916,6 +918,7 @@ A repository made with passion towards coding and problem solving
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/saivikassingamsetty/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2032-largest-odd-number-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saivikassingamsetty/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saivikassingamsetty/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2487-optimal-partition-of-string](https://github.com/saivikassingamsetty/DSA/tree/master/2487-optimal-partition-of-string) |
