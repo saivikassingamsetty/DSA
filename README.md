@@ -474,6 +474,7 @@ A repository made with passion towards coding and problem solving
 | [0851-goat-latin](https://github.com/saivikassingamsetty/DSA/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/saivikassingamsetty/DSA/tree/master/0857-positions-of-large-groups) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
+| [1078-remove-outermost-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -984,6 +985,7 @@ A repository made with passion towards coding and problem solving
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
