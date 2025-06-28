@@ -474,6 +474,7 @@ A repository made with passion towards coding and problem solving
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/saivikassingamsetty/DSA/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
+| [0812-rotate-string](https://github.com/saivikassingamsetty/DSA/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/saivikassingamsetty/DSA/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/saivikassingamsetty/DSA/tree/master/0857-positions-of-large-groups) |
@@ -1347,6 +1348,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/saivikassingamsetty/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/saivikassingamsetty/DSA/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
