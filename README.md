@@ -65,6 +65,7 @@ A repository made with passion towards coding and problem solving
 | [0229-majority-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/saivikassingamsetty/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/saivikassingamsetty/DSA/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saivikassingamsetty/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -733,6 +734,7 @@ A repository made with passion towards coding and problem solving
 | [0162-find-peak-element](https://github.com/saivikassingamsetty/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/saivikassingamsetty/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/saivikassingamsetty/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -807,6 +809,7 @@ A repository made with passion towards coding and problem solving
 | [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/saivikassingamsetty/DSA/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/saivikassingamsetty/DSA/tree/master/0463-island-perimeter) |
@@ -974,6 +977,7 @@ A repository made with passion towards coding and problem solving
 | [0190-reverse-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
