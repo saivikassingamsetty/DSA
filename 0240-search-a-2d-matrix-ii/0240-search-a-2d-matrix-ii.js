@@ -5,17 +5,14 @@
  */
 var searchMatrix = function (matrix, target) {
     let [m, n] = [matrix.length, matrix[0].length];
-    let l, r, mid;
+    // start top right
+    let i = 0;
+    let j = n - 1;
 
-    for (let i = 0; i < m; i++) {
-        l = 0;
-        r = n - 1;
-        while (l <= r) {
-            mid = Math.floor((l + r) / 2);
-            if (matrix[i][mid] == target) return true
-            else if (matrix[i][mid] > target) r = mid - 1
-            else l = mid + 1
-        }
+    while (i < m && j >= 0) {
+        if (matrix[i][j] == target) return true
+        else if (matrix[i][j] < target) i++
+        else j--
     }
 
     return false
