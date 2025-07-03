@@ -119,6 +119,7 @@ A repository made with passion towards coding and problem solving
 | [0907-koko-eating-bananas](https://github.com/saivikassingamsetty/DSA/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/saivikassingamsetty/DSA/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1022-unique-paths-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1022-unique-paths-iii) |
@@ -377,6 +378,7 @@ A repository made with passion towards coding and problem solving
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/saivikassingamsetty/DSA/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -1138,6 +1140,7 @@ A repository made with passion towards coding and problem solving
 | [0239-sliding-window-maximum](https://github.com/saivikassingamsetty/DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/saivikassingamsetty/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/saivikassingamsetty/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
