@@ -4,15 +4,25 @@
  * @return {number}
  */
 var numberOfSubarrays = function (nums, k) {
-    let prefixSum = 0;
-    let prefixArray = { '0': 1 };
+    let start = 0;
+    let count = 0;
+    let currentCount = 0;
     let res = 0;
 
-    for (let i = 0; i < nums.length; i++) {
-        prefixSum += (nums[i] % 2 == 0 ? 0 : 1);
-        res += (prefixArray[prefixSum - k] || 0);
-        prefixArray[prefixSum] = (prefixArray[prefixSum] || 0) + 1;
+    for (let end = 0; end < nums.length; end++) {
+        if (nums[end] & 1) {
+            count++;
+            currentCount = 0;
+        }
+
+        while (count == k) {
+            if (nums[start] & 1) count--;
+            start++;
+            currentCount++;
+        }
+
+        res += currentCount;
     }
 
-    return res;
+    return res
 };
