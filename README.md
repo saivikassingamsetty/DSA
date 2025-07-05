@@ -146,6 +146,7 @@ A repository made with passion towards coding and problem solving
 | [1477-product-of-the-last-k-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saivikassingamsetty/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/saivikassingamsetty/DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saivikassingamsetty/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/saivikassingamsetty/DSA/tree/master/1552-build-an-array-with-stack-operations) |
@@ -396,6 +397,7 @@ A repository made with passion towards coding and problem solving
 | [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -787,6 +789,7 @@ A repository made with passion towards coding and problem solving
 | [1297-maximum-number-of-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/saivikassingamsetty/DSA/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/1635-number-of-good-pairs) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1777-determine-if-two-strings-are-close](https://github.com/saivikassingamsetty/DSA/tree/master/1777-determine-if-two-strings-are-close) |
