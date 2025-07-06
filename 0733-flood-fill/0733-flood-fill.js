@@ -6,24 +6,21 @@
  * @return {number[][]}
  */
 var floodFill = function (image, sr, sc, color) {
-    let queue = [[sr, sc]];
-    const prevValue = image[sr][sc];
-    let x, y;
-    let [m, n] = [image.length, image[0].length];
+    let startingColor = image[sr][sc];
+    if (startingColor == color) return image;
 
-    image[sr][sc] = color;
+    let dirs = [[-1, 0], [1, 0], [0, 1], [0, -1]];
 
-    while (queue.length) {
-        [x, y] = queue.shift();
-        for (const [dx, dy] of [[0, -1], [0, 1], [-1, 0], [1, 0]]) {
-            if (x + dx >= 0 && x + dx < m && y + dy >= 0 && y + dy < n) {
-                if (image[x + dx][y + dy] != prevValue || image[x + dx][y + dy] == color) continue;
+    const dfs = (i, j) => {
+        if (i < 0 || i >= image.length || j < 0 || j >= image[0].length || image[i][j] != startingColor) return;
 
-                image[x + dx][y + dy] = color;
-                queue.push([x + dx, y + dy]);
-            }
+        image[i][j] = color;
+        for (let [di, dj] of dirs) {
+            dfs(i + di, j + dj);
         }
     }
+
+    dfs(sr, sc);
 
     return image;
 };
