@@ -4,18 +4,16 @@
  */
 var minPathSum = function (grid) {
     const [m, n] = [grid.length, grid[0].length];
-    const memo = new Map();
+    const dp = Array.from({ length: m }, () => new Array(n).fill(Infinity));
 
-    const dfs = (i, j) => {
-        if (i == m - 1 && j == n - 1) return grid[m - 1][n - 1];
-        if (i >= m | j >= n) return Infinity;
-
-        if (!memo.has(`${i},${j}`)) {
-            memo.set(`${i},${j}`, grid[i][j] + Math.min(dfs(i + 1, j), dfs(i, j + 1)))
+    for (let i = 0; i < m; i++) {
+        for (let j = 0; j < n; j++) {
+            if (i == 0 && j == 0) dp[i][j] = grid[0][0]
+            else if (i == 0) dp[i][j] = grid[i][j] + dp[i][j - 1]
+            else if (j == 0) dp[i][j] = grid[i][j] + dp[i - 1][j]
+            else dp[i][j] = grid[i][j] + Math.min(dp[i - 1][j], dp[i][j - 1])
         }
-
-        return memo.get(`${i},${j}`);
     }
 
-    return dfs(0, 0);
+    return dp[m - 1][n - 1];
 };
