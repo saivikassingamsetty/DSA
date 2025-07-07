@@ -227,6 +227,7 @@ A repository made with passion towards coding and problem solving
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/saivikassingamsetty/DSA/tree/master/2721-sum-of-distances) |
 | [2722-prime-in-diagonal](https://github.com/saivikassingamsetty/DSA/tree/master/2722-prime-in-diagonal) |
+| [2756-buy-two-chocolates](https://github.com/saivikassingamsetty/DSA/tree/master/2756-buy-two-chocolates) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2792-neighboring-bitwise-xor) |
@@ -599,6 +600,7 @@ A repository made with passion towards coding and problem solving
 | [2631-sort-the-students-by-their-kth-score](https://github.com/saivikassingamsetty/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2756-buy-two-chocolates](https://github.com/saivikassingamsetty/DSA/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/saivikassingamsetty/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/saivikassingamsetty/DSA/tree/master/2892-check-if-array-is-good) |
@@ -959,6 +961,7 @@ A repository made with passion towards coding and problem solving
 | [2591-frog-jump-ii](https://github.com/saivikassingamsetty/DSA/tree/master/2591-frog-jump-ii) |
 | [2650-split-with-minimum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2756-buy-two-chocolates](https://github.com/saivikassingamsetty/DSA/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
