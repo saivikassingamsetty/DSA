@@ -2,34 +2,34 @@
  * @param {number[][]} mat
  * @return {number[][]}
  */
-
 var updateMatrix = function (mat) {
-    let [m, n] = [mat.length, mat[0].length];
-    let res = Array.from({ length: m }, (x) => new Array(n).fill(Infinity));
-    let queue = Queue.fromArray([]);
+    let queue = new Queue();
+    let dirs = [[0, 1], [0, -1], [1, 0], [-1, 0]];
 
-    for (let i = 0; i < m; i++) {
-        for (let j = 0; j < n; j++) {
-            if (mat[i][j] == 0) {
-                res[i][j] = 0;
-                queue.enqueue([i, j]);
+    for (let i = 0; i < mat.length; i++) {
+        for (let j = 0; j < mat[0].length; j++) {
+            if (mat[i][j] == 1) {
+                mat[i][j] = Infinity;
+            } else if (mat[i][j] == 0) {
+                queue.enqueue([i, j, 0]);
             }
         }
     }
-    let directions = [[0, -1], [0, 1], [-1, 0], [1, 0]];
 
     while (queue.size()) {
-        let [x, y] = queue.dequeue();
+        const [i, j, level] = queue.dequeue();
 
-        for (let [dx, dy] of directions) {
-            if (x + dx >= 0 && x + dx < m && y + dy >= 0 && y + dy < n) {
-                if (res[x + dx][y + dy] > res[x][y] + 1) {
-                    res[x + dx][y + dy] = res[x][y] + 1;
-                    queue.enqueue([x + dx, y + dy]);
+        for ([di, dj] of dirs) {
+            if (i + di >= 0 && i + di < mat.length && j + dj >= 0 && j + dj < mat[0].length) {
+                if (mat[i + di][j + dj] != 0) {
+                    if (mat[i + di][j + dj] > level + 1) {
+                        mat[i + di][j + dj] = level + 1;
+                        queue.enqueue([i + di, j + dj, level + 1]);
+                    }
                 }
             }
         }
     }
 
-    return res;
+    return mat;
 };
