@@ -258,6 +258,7 @@ A repository made with passion towards coding and problem solving
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/saivikassingamsetty/DSA/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/saivikassingamsetty/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/saivikassingamsetty/DSA/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/saivikassingamsetty/DSA/tree/master/3463-alternating-groups-i) |
@@ -443,6 +444,7 @@ A repository made with passion towards coding and problem solving
 | [3044-minimum-operations-to-collect-elements](https://github.com/saivikassingamsetty/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/saivikassingamsetty/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
