@@ -91,6 +91,7 @@ A repository made with passion towards coding and problem solving
 | [0474-ones-and-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/saivikassingamsetty/DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/saivikassingamsetty/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
@@ -765,6 +766,7 @@ A repository made with passion towards coding and problem solving
 | [0367-valid-perfect-square](https://github.com/saivikassingamsetty/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/saivikassingamsetty/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
+| [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saivikassingamsetty/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -1012,6 +1014,7 @@ A repository made with passion towards coding and problem solving
 | [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
@@ -1470,17 +1473,24 @@ A repository made with passion towards coding and problem solving
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saivikassingamsetty/DSA/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
