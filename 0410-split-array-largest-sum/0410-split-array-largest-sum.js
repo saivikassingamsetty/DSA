@@ -1,39 +1,23 @@
-/**
- * @param {number[]} nums
- * @param {number} k
- * @return {number}
- */
 var splitArray = function (nums, k) {
-    const n = nums.length;
-    const prefixSum = new Array(n + 1).fill(0);
-    for (let i = 0; i < n; i++) {
-        prefixSum[i + 1] = nums[i] + prefixSum[i];
-    }
+    let left = Math.max(...nums), right = nums.reduce((a, b) => a + b, 0);
 
-    //prefix of i -> 0 till i-1
-    const findSum = (start, end) => prefixSum[end] - prefixSum[start];
-
-    const memo = new Map();
-
-    const findMinMax = (start, splits) => {
-        if (splits == 1) return findSum(start, n);
-        if (splits > n - start) return Infinity;
-        let key = start + ',' + splits;
-        if (memo.has(key)) return memo.get(key);
-
-        let minimisedMaxSum = Infinity;
-        for (let i = start + 1; i <= n - (splits - 1); i++) {
-            let left = findSum(start, i);
-            minimisedMaxSum = Math.min(minimisedMaxSum, Math.max(left, findMinMax(i, splits - 1)));
-
-            // if left starts growing, no need to check further
-            if (left >= minimisedMaxSum) break;
+    function canSplit(maxSum) {
+        let parts = 1, currSum = 0;
+        for (const n of nums) {
+            if (currSum + n > maxSum) {
+                parts += 1;
+                currSum = n;
+            } else {
+                currSum += n;
+            }
         }
-
-        memo.set(key, minimisedMaxSum);
-
-        return memo.get(key)
+        return parts <= k;
     }
 
-    return findMinMax(0, k);
+    while (left < right) {
+        let mid = Math.floor((left + right) / 2);
+        if (canSplit(mid)) right = mid;
+        else left = mid + 1;
+    }
+    return left;
 };
