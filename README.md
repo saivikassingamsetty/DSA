@@ -80,6 +80,7 @@ A repository made with passion towards coding and problem solving
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/saivikassingamsetty/DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -630,6 +631,7 @@ A repository made with passion towards coding and problem solving
 | [0209-minimum-size-subarray-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saivikassingamsetty/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saivikassingamsetty/DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
@@ -772,6 +774,7 @@ A repository made with passion towards coding and problem solving
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/saivikassingamsetty/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/saivikassingamsetty/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
@@ -960,6 +963,7 @@ A repository made with passion towards coding and problem solving
 | [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/saivikassingamsetty/DSA/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saivikassingamsetty/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/saivikassingamsetty/DSA/tree/master/0605-can-place-flowers) |
@@ -1363,6 +1367,7 @@ A repository made with passion towards coding and problem solving
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/saivikassingamsetty/DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0474-ones-and-zeroes) |
