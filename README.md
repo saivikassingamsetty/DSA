@@ -51,6 +51,7 @@ A repository made with passion towards coding and problem solving
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/saivikassingamsetty/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saivikassingamsetty/DSA/tree/master/0162-find-peak-element) |
@@ -357,6 +358,7 @@ A repository made with passion towards coding and problem solving
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/saivikassingamsetty/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/saivikassingamsetty/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/saivikassingamsetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -473,6 +475,7 @@ A repository made with passion towards coding and problem solving
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/saivikassingamsetty/DSA/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1357,6 +1360,7 @@ A repository made with passion towards coding and problem solving
 | [0118-pascals-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/saivikassingamsetty/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0213-house-robber-ii) |
@@ -1446,6 +1450,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -1460,6 +1465,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Topological Sort
