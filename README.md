@@ -377,6 +377,7 @@ A repository made with passion towards coding and problem solving
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
@@ -828,6 +829,7 @@ A repository made with passion towards coding and problem solving
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0460-lfu-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saivikassingamsetty/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1160,6 +1162,7 @@ A repository made with passion towards coding and problem solving
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/saivikassingamsetty/DSA/tree/master/1765-merge-in-between-linked-lists) |
@@ -1501,4 +1504,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
