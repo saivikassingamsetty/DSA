@@ -124,6 +124,7 @@ A repository made with passion towards coding and problem solving
 | [0890-lemonade-change](https://github.com/saivikassingamsetty/DSA/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/saivikassingamsetty/DSA/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/saivikassingamsetty/DSA/tree/master/0940-fruit-into-baskets) |
@@ -304,6 +305,7 @@ A repository made with passion towards coding and problem solving
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0492-construct-the-rectangle) |
 | [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
+| [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/saivikassingamsetty/DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -641,6 +643,7 @@ A repository made with passion towards coding and problem solving
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saivikassingamsetty/DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
+| [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saivikassingamsetty/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -785,6 +788,7 @@ A repository made with passion towards coding and problem solving
 | [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saivikassingamsetty/DSA/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saivikassingamsetty/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/saivikassingamsetty/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1526,4 +1530,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0460-lfu-cache) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
