@@ -151,6 +151,7 @@ A repository made with passion towards coding and problem solving
 | [1364-tuple-with-same-product](https://github.com/saivikassingamsetty/DSA/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saivikassingamsetty/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saivikassingamsetty/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/saivikassingamsetty/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saivikassingamsetty/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -881,6 +882,7 @@ A repository made with passion towards coding and problem solving
 | [1036-rotting-oranges](https://github.com/saivikassingamsetty/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/saivikassingamsetty/DSA/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/saivikassingamsetty/DSA/tree/master/1117-as-far-from-land-as-possible) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saivikassingamsetty/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1572-subrectangle-queries](https://github.com/saivikassingamsetty/DSA/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/saivikassingamsetty/DSA/tree/master/1876-map-of-highest-peak) |
@@ -1427,6 +1429,7 @@ A repository made with passion towards coding and problem solving
 | [1170-shortest-common-supersequence](https://github.com/saivikassingamsetty/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saivikassingamsetty/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saivikassingamsetty/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1761-count-sorted-vowel-strings) |
