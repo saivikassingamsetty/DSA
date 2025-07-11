@@ -1285,6 +1285,7 @@ A repository made with passion towards coding and problem solving
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/saivikassingamsetty/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
@@ -1331,6 +1332,7 @@ A repository made with passion towards coding and problem solving
 | [2121-find-if-path-exists-in-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/saivikassingamsetty/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/saivikassingamsetty/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
@@ -1354,6 +1356,7 @@ A repository made with passion towards coding and problem solving
 | [2171-second-minimum-time-to-reach-destination](https://github.com/saivikassingamsetty/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2455-node-with-highest-edge-score](https://github.com/saivikassingamsetty/DSA/tree/master/2455-node-with-highest-edge-score) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/saivikassingamsetty/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3189-find-champion-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3189-find-champion-ii) |
 | [3561-remove-methods-from-project](https://github.com/saivikassingamsetty/DSA/tree/master/3561-remove-methods-from-project) |
@@ -1437,6 +1440,7 @@ A repository made with passion towards coding and problem solving
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/saivikassingamsetty/DSA/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2121-find-if-path-exists-in-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/saivikassingamsetty/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Number Theory
 |  |
