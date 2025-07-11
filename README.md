@@ -147,6 +147,7 @@ A repository made with passion towards coding and problem solving
 | [1310-watering-plants](https://github.com/saivikassingamsetty/DSA/tree/master/1310-watering-plants) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/saivikassingamsetty/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/saivikassingamsetty/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/saivikassingamsetty/DSA/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saivikassingamsetty/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -611,6 +612,7 @@ A repository made with passion towards coding and problem solving
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/saivikassingamsetty/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/saivikassingamsetty/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -794,6 +796,7 @@ A repository made with passion towards coding and problem solving
 | [1046-max-consecutive-ones-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saivikassingamsetty/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/saivikassingamsetty/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/saivikassingamsetty/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saivikassingamsetty/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saivikassingamsetty/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/saivikassingamsetty/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -1411,6 +1414,7 @@ A repository made with passion towards coding and problem solving
 | [1117-as-far-from-land-as-possible](https://github.com/saivikassingamsetty/DSA/tree/master/1117-as-far-from-land-as-possible) |
 | [1170-shortest-common-supersequence](https://github.com/saivikassingamsetty/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/saivikassingamsetty/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1761-count-sorted-vowel-strings) |
