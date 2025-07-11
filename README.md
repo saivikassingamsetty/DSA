@@ -590,6 +590,7 @@ A repository made with passion towards coding and problem solving
 | [0056-merge-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saivikassingamsetty/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/saivikassingamsetty/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
@@ -734,6 +735,7 @@ A repository made with passion towards coding and problem solving
 | [0088-merge-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/saivikassingamsetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/saivikassingamsetty/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
@@ -1038,6 +1040,7 @@ A repository made with passion towards coding and problem solving
 | [0053-maximum-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/saivikassingamsetty/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0191-number-of-1-bits) |
@@ -1178,6 +1181,7 @@ A repository made with passion towards coding and problem solving
 | [0092-reverse-linked-list-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/saivikassingamsetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/saivikassingamsetty/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0206-reverse-linked-list) |
@@ -1537,6 +1541,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/saivikassingamsetty/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 ## Monotonic Queue
 |  |
