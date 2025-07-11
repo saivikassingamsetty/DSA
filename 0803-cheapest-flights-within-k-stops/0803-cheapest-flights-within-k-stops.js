@@ -7,8 +7,6 @@
  * @return {number}
  */
 var findCheapestPrice = function (n, flights, src, dst, k) {
-    let minPrice = Infinity;
-
     let adjList = {};
     for (let [u, v, dist] of flights) {
         if (!adjList[u]) adjList[u] = [];
@@ -23,11 +21,7 @@ var findCheapestPrice = function (n, flights, src, dst, k) {
 
     while (pq.size()) {
         let [stop, stopsSoFar, priceSoFar] = pq.dequeue();
-
-        if (stop == dst) {
-            minPrice = Math.min(minPrice, priceSoFar);
-            continue;
-        }
+        if (stop == dst) return priceSoFar;
 
         if (stopsSoFar > k) continue;
 
@@ -39,5 +33,5 @@ var findCheapestPrice = function (n, flights, src, dst, k) {
         }
     }
 
-    return minPrice == Infinity ? -1 : minPrice;
+    return -1;
 };
