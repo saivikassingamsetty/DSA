@@ -103,6 +103,7 @@ A repository made with passion towards coding and problem solving
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/saivikassingamsetty/DSA/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/saivikassingamsetty/DSA/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -603,6 +604,7 @@ A repository made with passion towards coding and problem solving
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/saivikassingamsetty/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
+| [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
@@ -978,6 +980,7 @@ A repository made with passion towards coding and problem solving
 | [0435-non-overlapping-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saivikassingamsetty/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/saivikassingamsetty/DSA/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/saivikassingamsetty/DSA/tree/master/0890-lemonade-change) |
@@ -1012,6 +1015,7 @@ A repository made with passion towards coding and problem solving
 | [0295-find-median-from-data-stream](https://github.com/saivikassingamsetty/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saivikassingamsetty/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
