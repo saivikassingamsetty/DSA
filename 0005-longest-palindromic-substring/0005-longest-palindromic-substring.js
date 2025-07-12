@@ -3,46 +3,31 @@
  * @return {string}
  */
 var longestPalindrome = function (s) {
-    let start = 0;
-    let maxLength = 1;
     let n = s.length;
+    let dp = Array.from({ length: n }, (x) => Array.from({ length: n }, (x) => false));
+    let ans = [0, 0];
 
-    //considering singles a starting palindrome
-    for (let i = 1; i < s.length; i++) {
-        //expand both sides
-        let j = 1;
-        //if expanded characters are same, valid palindrome
-        //odd length palindromes
-        while (i - j >= 0 && i + j < n && s[i - j] == s[i + j]) {
-            if (1 + j * 2 > maxLength) {
-                maxLength = 1 + j * 2;
-                start = i - j;
-            }
-            j++;
+    for (let i = 0; i < n; i++) {
+        dp[i][i] = true;
+    }
+
+    for (let i = 0; i < n - 1; i++) {
+        if (s[i] == s[i + 1]) {
+            dp[i][i + 1] = true;
+            ans = [i, i + 1];
         }
     }
 
-    //considering double as a starting palindrome
-    //even length palindromes
-    for (let i = 1; i < s.length; i++) {
-        if (s[i] == s[i - 1]) {
-            if (maxLength < 2) {
-                maxLength = 2;
-                start = i - 1;
-            }
+    for (let diff = 2; diff < n; diff++) {
+        for (let i = 0; i < n - diff; i++) {
+            let j = i + diff;
 
-            //expand both sides
-            let j = 1;
-            //if expanded characters are same, valid palindrome
-            while (i - 1 - j >= 0 && i + j < n && s[i - 1 - j] == s[i + j]) {
-                if (2 + j * 2 > maxLength) {
-                    maxLength = 2 + j * 2;
-                    start = i - 1 - j;
-                }
-                j++;
+            if (s[i] == s[j] && dp[i + 1][j - 1]) {
+                dp[i][j] = true;
+                ans = [i, j];
             }
         }
     }
 
-    return s.substr(start, maxLength);
+    return s.slice(ans[0], ans[1] + 1);
 };
