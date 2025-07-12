@@ -4,21 +4,22 @@
  * @return {number}
  */
 var change = function (amount, coins) {
-    const memo = new Map();
+    // 2D DP
+    const n = coins.length;
+    const dp = Array.from({ length: n + 1 }, () => new Array(amount + 1).fill(0));
 
-    const dfs = (i, change) => {
-        if (i >= coins.length) return 0;
-        if (change < 0) return 0;
-        if (change == 0) return 1;
+    //reccurance relation (number of ways of making x amount with i coins)
+    // dp[i][x] = dp[i-1][x] + dp[i][x - coin(i)];
 
-        let key = i + ',' + change;
+    //base case
+    dp[0][0] = 1;
 
-        if (!memo.has(key)) {
-            memo.set(key, dfs(i, change - coins[i]) + dfs(i + 1, change));
+    for (let coinIndex = 1; coinIndex <= n; coinIndex++) {
+        for (let balance = 0; balance <= amount; balance++) {
+            dp[coinIndex][balance] = dp[coinIndex - 1][balance];
+            if (balance >= coins[coinIndex - 1]) dp[coinIndex][balance] += dp[coinIndex][balance - coins[coinIndex - 1]];
         }
-
-        return memo.get(key);
     }
 
-    return dfs(0, amount);
+    return dp[n][amount];
 };
