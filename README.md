@@ -39,6 +39,7 @@ A repository made with passion towards coding and problem solving
 | [0074-search-a-2d-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saivikassingamsetty/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/saivikassingamsetty/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -482,6 +483,7 @@ A repository made with passion towards coding and problem solving
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/saivikassingamsetty/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/saivikassingamsetty/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/saivikassingamsetty/DSA/tree/master/0127-word-ladder) |
@@ -870,6 +872,7 @@ A repository made with passion towards coding and problem solving
 | [0064-minimum-path-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/saivikassingamsetty/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
@@ -961,6 +964,7 @@ A repository made with passion towards coding and problem solving
 | [0052-n-queens-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/saivikassingamsetty/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/saivikassingamsetty/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/saivikassingamsetty/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
@@ -1260,6 +1264,7 @@ A repository made with passion towards coding and problem solving
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saivikassingamsetty/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0110-balanced-binary-tree) |
