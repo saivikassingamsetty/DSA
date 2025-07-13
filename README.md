@@ -402,6 +402,7 @@ A repository made with passion towards coding and problem solving
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/saivikassingamsetty/DSA/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0833-bus-routes](https://github.com/saivikassingamsetty/DSA/tree/master/0833-bus-routes) |
@@ -522,6 +523,7 @@ A repository made with passion towards coding and problem solving
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/saivikassingamsetty/DSA/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/saivikassingamsetty/DSA/tree/master/0812-rotate-string) |
@@ -621,6 +623,7 @@ A repository made with passion towards coding and problem solving
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -837,6 +840,7 @@ A repository made with passion towards coding and problem solving
 | [0387-first-unique-character-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -1007,6 +1011,7 @@ A repository made with passion towards coding and problem solving
 | [0605-can-place-flowers](https://github.com/saivikassingamsetty/DSA/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/saivikassingamsetty/DSA/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -1045,6 +1050,7 @@ A repository made with passion towards coding and problem solving
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saivikassingamsetty/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
