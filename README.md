@@ -278,6 +278,7 @@ A repository made with passion towards coding and problem solving
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/saivikassingamsetty/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saivikassingamsetty/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Math
 |  |
@@ -463,6 +464,7 @@ A repository made with passion towards coding and problem solving
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saivikassingamsetty/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
 | ------- |
@@ -668,6 +670,7 @@ A repository made with passion towards coding and problem solving
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/saivikassingamsetty/DSA/tree/master/2721-sum-of-distances) |
 | [3639-zero-array-transformation-i](https://github.com/saivikassingamsetty/DSA/tree/master/3639-zero-array-transformation-i) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Enumeration
 |  |
 | ------- |
@@ -680,6 +683,7 @@ A repository made with passion towards coding and problem solving
 | [2998-count-symmetric-integers](https://github.com/saivikassingamsetty/DSA/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Simulation
 |  |
 | ------- |
@@ -1009,6 +1013,7 @@ A repository made with passion towards coding and problem solving
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2756-buy-two-chocolates](https://github.com/saivikassingamsetty/DSA/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1448,6 +1453,7 @@ A repository made with passion towards coding and problem solving
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/saivikassingamsetty/DSA/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Shortest Path
 |  |
 | ------- |
