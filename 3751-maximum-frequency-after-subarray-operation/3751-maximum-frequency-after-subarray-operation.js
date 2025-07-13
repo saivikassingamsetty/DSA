@@ -4,29 +4,14 @@
  * @return {number}
  */
 var maxFrequency = function (nums, k) {
-    // Kadane
-    let findMaxSubarray = (i) => {
-        let runningCount = 0;
-        let maxCount = 0;
-        for (let num of nums) {
-            if (num == i) runningCount++
-            else if (num == k) runningCount--
-            if (runningCount < 0) runningCount = 0
-            maxCount = Math.max(maxCount, runningCount);
-        }
-
-        return Math.max(maxCount, runningCount);
-    }
-
+    let freq = {};
     let res = 0;
-    let orgK = 0;
-    for (let num of nums) if (num == k) orgK++;
+    freq[k] = 0;
 
-
-    for (let i = 1; i <= 50; i++) {
-        if (i == k) continue;
-        res = Math.max(res, findMaxSubarray(i))
+    for (let num of nums) {
+        freq[num] = Math.max((freq[num] || 0), freq[k]) + 1;
+        res = Math.max(res, freq[num] - freq[k]);
     }
 
-    return res + orgK;
+    return freq[k] + res;
 };
