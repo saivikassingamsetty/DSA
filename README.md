@@ -1168,6 +1168,7 @@ A repository made with passion towards coding and problem solving
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1731-even-odd-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1731-even-odd-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saivikassingamsetty/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
 |  |
@@ -1216,6 +1217,7 @@ A repository made with passion towards coding and problem solving
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/saivikassingamsetty/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1731-even-odd-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1731-even-odd-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saivikassingamsetty/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Linked List
 |  |
@@ -1346,6 +1348,7 @@ A repository made with passion towards coding and problem solving
 | [1492-time-needed-to-inform-all-employees](https://github.com/saivikassingamsetty/DSA/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/saivikassingamsetty/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saivikassingamsetty/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/saivikassingamsetty/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
