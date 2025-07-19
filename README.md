@@ -423,6 +423,7 @@ A repository made with passion towards coding and problem solving
 | [0940-fruit-into-baskets](https://github.com/saivikassingamsetty/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/saivikassingamsetty/DSA/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/saivikassingamsetty/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -642,6 +643,7 @@ A repository made with passion towards coding and problem solving
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/saivikassingamsetty/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saivikassingamsetty/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -1165,6 +1167,7 @@ A repository made with passion towards coding and problem solving
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1218,6 +1221,7 @@ A repository made with passion towards coding and problem solving
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/saivikassingamsetty/DSA/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1348,6 +1352,7 @@ A repository made with passion towards coding and problem solving
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/saivikassingamsetty/DSA/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1396,6 +1401,7 @@ A repository made with passion towards coding and problem solving
 | [0833-bus-routes](https://github.com/saivikassingamsetty/DSA/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/saivikassingamsetty/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/saivikassingamsetty/DSA/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/saivikassingamsetty/DSA/tree/master/1117-as-far-from-land-as-possible) |
