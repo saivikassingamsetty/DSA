@@ -3,14 +3,14 @@
  * @return {string}
  */
 var processStr = function (s) {
-    let res = [];
+    let res = '';
 
     for (let ch of s) {
-        if (ch >= 'a' && ch <= 'z') res.push(ch);
-        else if (ch == '*') res.pop();
-        else if (ch == '%') res = res.reverse();
-        else res.push(...res);
+        if (ch >= 'a' && ch <= 'z') res += ch;
+        else if (ch == '*') res = res.slice(0, -1);
+        else if (ch == '%') res = res.split('').reverse().join('');
+        else res += res;
     }
 
-    return res.join('');
+    return res;
 };
