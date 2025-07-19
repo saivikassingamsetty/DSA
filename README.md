@@ -606,6 +606,7 @@ A repository made with passion towards coding and problem solving
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/saivikassingamsetty/DSA/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/saivikassingamsetty/DSA/tree/master/3567-convert-date-to-binary) |
+| [3931-process-string-with-special-operations-i](https://github.com/saivikassingamsetty/DSA/tree/master/3931-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -748,6 +749,7 @@ A repository made with passion towards coding and problem solving
 | [3533-snake-in-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3533-snake-in-matrix) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/saivikassingamsetty/DSA/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saivikassingamsetty/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/saivikassingamsetty/DSA/tree/master/3931-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
