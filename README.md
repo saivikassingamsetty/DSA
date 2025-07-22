@@ -506,6 +506,7 @@ A repository made with passion towards coding and problem solving
 | [0079-word-search](https://github.com/saivikassingamsetty/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/saivikassingamsetty/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/saivikassingamsetty/DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
@@ -773,6 +774,7 @@ A repository made with passion towards coding and problem solving
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/saivikassingamsetty/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saivikassingamsetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/saivikassingamsetty/DSA/tree/master/0148-sort-list) |
