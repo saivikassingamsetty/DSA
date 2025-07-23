@@ -131,6 +131,7 @@ A repository made with passion towards coding and problem solving
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/saivikassingamsetty/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/saivikassingamsetty/DSA/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/saivikassingamsetty/DSA/tree/master/0907-koko-eating-bananas) |
@@ -837,6 +838,7 @@ A repository made with passion towards coding and problem solving
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/saivikassingamsetty/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/saivikassingamsetty/DSA/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1046-max-consecutive-ones-iii) |
