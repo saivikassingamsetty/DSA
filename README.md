@@ -223,6 +223,7 @@ A repository made with passion towards coding and problem solving
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/saivikassingamsetty/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saivikassingamsetty/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saivikassingamsetty/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saivikassingamsetty/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/saivikassingamsetty/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -1094,6 +1095,7 @@ A repository made with passion towards coding and problem solving
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saivikassingamsetty/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saivikassingamsetty/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -1546,6 +1548,7 @@ A repository made with passion towards coding and problem solving
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/saivikassingamsetty/DSA/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/saivikassingamsetty/DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saivikassingamsetty/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/saivikassingamsetty/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/saivikassingamsetty/DSA/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
