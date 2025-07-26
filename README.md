@@ -53,6 +53,7 @@ A repository made with passion towards coding and problem solving
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/saivikassingamsetty/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/saivikassingamsetty/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
@@ -1039,6 +1040,7 @@ A repository made with passion towards coding and problem solving
 | [0045-jump-game-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saivikassingamsetty/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/saivikassingamsetty/DSA/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0409-longest-palindrome](https://github.com/saivikassingamsetty/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
