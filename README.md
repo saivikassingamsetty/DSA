@@ -77,6 +77,7 @@ A repository made with passion towards coding and problem solving
 | [0252-meeting-rooms](https://github.com/saivikassingamsetty/DSA/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saivikassingamsetty/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -523,6 +524,7 @@ A repository made with passion towards coding and problem solving
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saivikassingamsetty/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1363,6 +1365,7 @@ A repository made with passion towards coding and problem solving
 | [0226-invert-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
@@ -1418,6 +1421,7 @@ A repository made with passion towards coding and problem solving
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0226-invert-binary-tree) |
+| [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/saivikassingamsetty/DSA/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
@@ -1465,6 +1469,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/saivikassingamsetty/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
@@ -1638,6 +1643,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
 ## Quickselect
 |  |
