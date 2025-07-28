@@ -86,6 +86,7 @@ A repository made with passion towards coding and problem solving
 | [0312-burst-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saivikassingamsetty/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/saivikassingamsetty/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
@@ -933,6 +934,7 @@ A repository made with passion towards coding and problem solving
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/saivikassingamsetty/DSA/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/saivikassingamsetty/DSA/tree/master/0463-island-perimeter) |
@@ -1367,6 +1369,7 @@ A repository made with passion towards coding and problem solving
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -1424,6 +1427,7 @@ A repository made with passion towards coding and problem solving
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/saivikassingamsetty/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0407-trapping-rain-water-ii) |
@@ -1470,6 +1474,7 @@ A repository made with passion towards coding and problem solving
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/saivikassingamsetty/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
@@ -1522,6 +1527,7 @@ A repository made with passion towards coding and problem solving
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/saivikassingamsetty/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
@@ -1637,6 +1643,7 @@ A repository made with passion towards coding and problem solving
 | [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/saivikassingamsetty/DSA/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Topological Sort
 |  |
@@ -1644,6 +1651,7 @@ A repository made with passion towards coding and problem solving
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
 ## Quickselect
 |  |
