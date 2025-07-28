@@ -283,6 +283,7 @@ A repository made with passion towards coding and problem solving
 | [3330-modify-the-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/saivikassingamsetty/DSA/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/saivikassingamsetty/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/saivikassingamsetty/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/saivikassingamsetty/DSA/tree/master/3429-special-array-i) |
@@ -486,6 +487,7 @@ A repository made with passion towards coding and problem solving
 | [3044-minimum-operations-to-collect-elements](https://github.com/saivikassingamsetty/DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/saivikassingamsetty/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/saivikassingamsetty/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -870,6 +872,7 @@ A repository made with passion towards coding and problem solving
 | [2690-house-robber-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2690-house-robber-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/saivikassingamsetty/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saivikassingamsetty/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/saivikassingamsetty/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Counting
 |  |
 | ------- |
@@ -1318,6 +1321,7 @@ A repository made with passion towards coding and problem solving
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saivikassingamsetty/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/saivikassingamsetty/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3463-alternating-groups-i](https://github.com/saivikassingamsetty/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3483-alternating-groups-ii) |
 ## Recursion
