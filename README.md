@@ -1190,6 +1190,7 @@ A repository made with passion towards coding and problem solving
 | [0129-sum-root-to-leaf-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/saivikassingamsetty/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1249,6 +1250,7 @@ A repository made with passion towards coding and problem solving
 | [0129-sum-root-to-leaf-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/saivikassingamsetty/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1371,6 +1373,7 @@ A repository made with passion towards coding and problem solving
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/saivikassingamsetty/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
@@ -1430,6 +1433,7 @@ A repository made with passion towards coding and problem solving
 | [0112-path-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/saivikassingamsetty/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/saivikassingamsetty/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
