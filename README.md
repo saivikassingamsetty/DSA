@@ -398,6 +398,7 @@ A repository made with passion towards coding and problem solving
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/saivikassingamsetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saivikassingamsetty/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saivikassingamsetty/DSA/tree/master/0202-happy-number) |
@@ -917,6 +918,7 @@ A repository made with passion towards coding and problem solving
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/saivikassingamsetty/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1300,6 +1302,7 @@ A repository made with passion towards coding and problem solving
 | [0092-reverse-linked-list-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/saivikassingamsetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/saivikassingamsetty/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0203-remove-linked-list-elements) |
@@ -1728,6 +1731,7 @@ A repository made with passion towards coding and problem solving
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0460-lfu-cache) |
 ## Randomized
 |  |
