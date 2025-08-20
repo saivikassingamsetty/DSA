@@ -1209,6 +1209,7 @@ A repository made with passion towards coding and problem solving
 | [0449-serialize-and-deserialize-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1270,6 +1271,7 @@ A repository made with passion towards coding and problem solving
 | [0449-serialize-and-deserialize-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -1405,6 +1407,7 @@ A repository made with passion towards coding and problem solving
 | [0513-find-bottom-left-tree-value](https://github.com/saivikassingamsetty/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saivikassingamsetty/DSA/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
@@ -1633,6 +1636,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/saivikassingamsetty/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/saivikassingamsetty/DSA/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -1665,6 +1669,7 @@ A repository made with passion towards coding and problem solving
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
