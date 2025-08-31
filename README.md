@@ -322,6 +322,7 @@ A repository made with passion towards coding and problem solving
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saivikassingamsetty/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/saivikassingamsetty/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saivikassingamsetty/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
@@ -1196,6 +1197,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/saivikassingamsetty/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -1258,6 +1260,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/saivikassingamsetty/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -1562,6 +1565,7 @@ A repository made with passion towards coding and problem solving
 | [0072-edit-distance](https://github.com/saivikassingamsetty/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/saivikassingamsetty/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0120-triangle) |
@@ -1724,6 +1728,7 @@ A repository made with passion towards coding and problem solving
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saivikassingamsetty/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0783-search-in-a-binary-search-tree) |
