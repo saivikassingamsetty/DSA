@@ -329,6 +329,7 @@ A repository made with passion towards coding and problem solving
 | [0258-add-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saivikassingamsetty/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/saivikassingamsetty/DSA/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/saivikassingamsetty/DSA/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/saivikassingamsetty/DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/saivikassingamsetty/DSA/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/saivikassingamsetty/DSA/tree/master/0367-valid-perfect-square) |
@@ -1467,6 +1468,7 @@ A repository made with passion towards coding and problem solving
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0226-invert-binary-tree) |
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
+| [0279-perfect-squares](https://github.com/saivikassingamsetty/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/saivikassingamsetty/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1570,6 +1572,7 @@ A repository made with passion towards coding and problem solving
 | [0198-house-robber](https://github.com/saivikassingamsetty/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/saivikassingamsetty/DSA/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/saivikassingamsetty/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/saivikassingamsetty/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
