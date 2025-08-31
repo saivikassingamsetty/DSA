@@ -17,22 +17,22 @@ var lowestCommonAncestor = function(root, p, q) {
     const findLCA = (node) => {
         if (!node) return 0;
 
-        // left
         let left = findLCA(node.left);
         if (left == 2) return 2;
 
-        // right
         let right = findLCA(node.right);
         if (right == 2) return 2;
 
-        // node itself
-        let count = ((node.val == q.val || node.val == p.val) ? 1 : 0) + left + right;
-        if (count == 2 && res === null) res = node;
 
-        return count;
+        let val = left + right;
+        if (p && node.val == p.val) val++;
+        if (q && node.val == q.val) val++;
+        if (val == 2 && !res) res = node;
+
+        return val;
     }
 
-    if (p && q) findLCA(root);
+    findLCA(root);
 
     return res;
 };
