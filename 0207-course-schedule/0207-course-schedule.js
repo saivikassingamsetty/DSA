@@ -4,35 +4,29 @@
  * @return {boolean}
  */
 var canFinish = function (numCourses, prerequisites) {
-    const prereqMap = {};
+    const dependencyMap = {};
+    const indegree = new Array(numCourses).fill(0);
 
     for (let [courseA, courseB] of prerequisites) {
-        if (!prereqMap[courseA]) prereqMap[courseA] = [];
-        prereqMap[courseA].push(courseB);
+        if (!dependencyMap[courseB]) dependencyMap[courseB] = [];
+        dependencyMap[courseB].push(courseA);
+        indegree[courseA]++;
     }
 
-    const vis = new Set();
-    const safe = new Set();
+    let queue = new Queue();
+    for (let i = 0; i < numCourses; i++) {
+        if (!indegree[i]) queue.enqueue(i);
+    }
 
-    // Detect cycle in Directed Graph
-    const hasCycle = (node) => {
-        if (safe.has(node)) return false;
-        if (vis.has(node)) return true;
-        vis.add(node);
-
-        for (let nextNode of prereqMap[node] || []) {
-            if (hasCycle(nextNode)) return true;
+    let vis = 0;
+    while (queue.size()) {
+        let node = queue.dequeue();
+        vis++;
+        for (let nextNode of dependencyMap[node] || []) {
+            indegree[nextNode]--;
+            if (!indegree[nextNode]) queue.enqueue(nextNode);
         }
-
-        vis.delete(node);
-        safe.add(node);
-        return false;
     }
 
-
-    for (let course = 0; course < numCourses; course++) {
-        if (!vis.has(course) && hasCycle(course)) return false;
-    }
-
-    return true;
+    return vis == numCourses;
 };
