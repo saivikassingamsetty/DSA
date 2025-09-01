@@ -1411,6 +1411,7 @@ A repository made with passion towards coding and problem solving
 | [0226-invert-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
+| [0261-graph-valid-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1472,6 +1473,7 @@ A repository made with passion towards coding and problem solving
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/saivikassingamsetty/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1524,6 +1526,7 @@ A repository made with passion towards coding and problem solving
 | [0133-clone-graph](https://github.com/saivikassingamsetty/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/saivikassingamsetty/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
@@ -1638,6 +1641,7 @@ A repository made with passion towards coding and problem solving
 | [0128-longest-consecutive-sequence](https://github.com/saivikassingamsetty/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/saivikassingamsetty/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
