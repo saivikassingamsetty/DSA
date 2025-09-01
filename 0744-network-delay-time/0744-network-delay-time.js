@@ -33,32 +33,30 @@ var networkDelayTime = function (times, n, k) {
         }
 
         let maxTime = Math.max(...distance.slice(1));
-        return  maxTime == Infinity ? -1: maxTime;
+        return maxTime == Infinity ? -1 : maxTime;
     }
 
     //Bellaman Ford
-    const bellamanFord = (edges, total, source) => {
-        let distance = new Array(total + 1).fill(Infinity);
-        distance[source] = 0;
+    const bellamanFord = () => {
+        let distance = new Array(n + 1).fill(Infinity);
+        distance[k] = 0;
+        let updated = false;
 
-        let relaxationCount = 0;
-
-        while (relaxationCount < n) {
-            let updated = false;
-            for ([u, v, w] of edges) {
-                if (distance[u] + w < distance[v]) {
+        for (let i = 0; i < n; i++) {
+            updated = false;
+            for (let [u, v, w] of times) {
+                if (distance[v] > distance[u] + w) {
                     distance[v] = distance[u] + w;
                     updated = true;
                 }
             }
 
-            //early termination
+            // early stopping
             if (!updated) break;
-
-            relaxationCount++;
         }
 
-        return distance;
+        let maxTime = Math.max(...distance.slice(1));
+        return maxTime == Infinity ? -1 : maxTime;
     }
 
     //SPA
@@ -131,5 +129,5 @@ var networkDelayTime = function (times, n, k) {
         return dijkstra(newAdjList, k, n);
     }
 
-    return dijkstra();
+    return bellamanFord();
 };
