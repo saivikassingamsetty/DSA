@@ -13,30 +13,27 @@ var networkDelayTime = function (times, n, k) {
     //need to find the shortest path from each node to every other node
 
     //Djikstra
-    const dijkstra = (adjList, source, count) => {
-        let vis = new Set();
-        let distance = new Array(count + 1).fill(Infinity);
-
-        let pq = [source];
+    const dijkstra = () => {
+        let pq = new PriorityQueue((a, b) => distance[a] - distance[b]);
+        let distance = new Array(n + 1).fill(Infinity);
         distance[k] = 0;
+        pq.enqueue(k);
+        let vis = new Set();
 
-        while (pq.length) {
-            //simulates Priority Queue
-            let u = pq.sort((a, b) => distance[b] - distance[a]).pop();
-            vis[u] = true;
+        while (pq.size()) {
+            let u = pq.dequeue();
+            vis.add(u);
 
-            if (!adjList[u]) continue;
-
-            for (let [v, w] of adjList[u]) {
-                if (!vis[v] && distance[u] + w < distance[v]) {
-                    distance[v] = distance[u] + w;
-                    pq.push(v);
+            for (let [v, w] of adjList[u] || []) {
+                if (!vis.has(v) && distance[u] + w < distance[v]) {
+                    distance[v] = distance[u] + w
+                    pq.enqueue(v);
                 }
             }
         }
 
-        const res = Math.max(...distance.slice(1));
-        return res == Infinity ? -1 : res;
+        let maxTime = Math.max(...distance.slice(1));
+        return  maxTime == Infinity ? -1: maxTime;
     }
 
     //Bellaman Ford
@@ -134,5 +131,5 @@ var networkDelayTime = function (times, n, k) {
         return dijkstra(newAdjList, k, n);
     }
 
-    return johnson();
+    return dijkstra();
 };
