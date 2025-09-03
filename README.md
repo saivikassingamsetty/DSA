@@ -528,6 +528,7 @@ A repository made with passion towards coding and problem solving
 | [0032-longest-valid-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/saivikassingamsetty/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/saivikassingamsetty/DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/saivikassingamsetty/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saivikassingamsetty/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/saivikassingamsetty/DSA/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/saivikassingamsetty/DSA/tree/master/0072-edit-distance) |
