@@ -116,6 +116,7 @@ A repository made with passion towards coding and problem solving
 | [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/saivikassingamsetty/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/saivikassingamsetty/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
@@ -764,6 +765,7 @@ A repository made with passion towards coding and problem solving
 | [0289-game-of-life](https://github.com/saivikassingamsetty/DSA/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/saivikassingamsetty/DSA/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/saivikassingamsetty/DSA/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
@@ -966,6 +968,7 @@ A repository made with passion towards coding and problem solving
 | [0407-trapping-rain-water-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/saivikassingamsetty/DSA/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/saivikassingamsetty/DSA/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/saivikassingamsetty/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
