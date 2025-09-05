@@ -1750,6 +1750,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/saivikassingamsetty/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1908-recyclable-and-low-fat-products](https://github.com/saivikassingamsetty/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 ## Data Stream
 |  |
 | ------- |
