@@ -13,65 +13,42 @@
  */
 var distanceK = function (root, target, k) {
     if (!target) return [];
-
-    let dict = { [target.val]: 0 };
     let res = [];
-    let hasTargetCache = {};
 
-    const hasTarget = (node) => {
-        if (!node) return false;
-        if(hasTargetCache[node.val]) return hasTargetCache[node.val];
-
-        return hasTargetCache[node.val] = node == target || hasTarget(node.left) || hasTarget(node.right);
+    // Parent Pointers
+    let parentMap = {};
+    const populateParent = (node, parent) => {
+        if (!node) return;
+        parentMap[node.val] = parent;
+        populateParent(node.left, node);
+        populateParent(node.right, node);
     }
 
-    const dfs = (node) => {
-        if (!node) return Infinity;
+    populateParent(root, null);
 
-        // initialisation
-        if (dict[node.val] === undefined) dict[node.val] = Infinity;
-        if (node.left && dict[node.left.val] === undefined) dict[node.left.val] = Infinity;
-        if (node.right && dict[node.right.val] === undefined) dict[node.right.val] = Infinity;
+    // BFS
+    let queue = new Queue();
+    queue.enqueue(target);
+    let vis = new Set([target.val]);
+    let level = 0;
 
-        // if target is in left, start with exploring left first else right
-        if (hasTarget(node.left)) {
-            // explore left and gather distance
-            if (node.left) dict[node.left.val] = Math.min(dict[node.left.val], dict[node.val] + 1);
-            left = dfs(node.left);
+    while (queue.size() && level <= k) {
+        let size = queue.size();
 
-            // update distance from left
-            dict[node.val] = Math.min(dict[node.val], left + 1);
+        for (let i = 0; i < size; i++) {
+            let node = queue.dequeue();
+            if (level == k) res.push(node.val);
 
-            // explore right and gather distance
-            if (node.right) dict[node.right.val] = Math.min(dict[node.right.val], dict[node.val] + 1);
-            right = dfs(node.right);
-
-            // update distance from right
-            dict[node.val] = Math.min(dict[node.val], right + 1);
-        } else {
-            // explore right and gather distance
-            if (node.right) dict[node.right.val] = Math.min(dict[node.right.val], dict[node.val] + 1);
-            right = dfs(node.right);
-
-            // update distance from right
-            dict[node.val] = Math.min(dict[node.val], right + 1);
-
-            // explore left and gather distance
-            if (node.left) dict[node.left.val] = Math.min(dict[node.left.val], dict[node.val] + 1);
-            left = dfs(node.left);
-
-            // update distance from left
-            dict[node.val] = Math.min(dict[node.val], left + 1);
+            for (let neighbor of [node.left, node.right, parentMap[node.val]]) {
+                if (neighbor && !vis.has(neighbor.val)) {
+                    vis.add(neighbor.val);
+                    queue.enqueue(neighbor);
+                }
+            }
         }
 
-        // store value
-        if (dict[node.val] == k) res.push(node.val);
-
-        // return updated distance
-        return dict[node.val];
+        level++;
     }
-
-    dfs(root);
 
     return res;
 };
