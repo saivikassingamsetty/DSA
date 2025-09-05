@@ -338,6 +338,7 @@ A repository made with passion towards coding and problem solving
 | [0292-nim-game](https://github.com/saivikassingamsetty/DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/saivikassingamsetty/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/saivikassingamsetty/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/saivikassingamsetty/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/saivikassingamsetty/DSA/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
@@ -1026,6 +1027,7 @@ A repository made with passion towards coding and problem solving
 | [0287-find-the-duplicate-number](https://github.com/saivikassingamsetty/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saivikassingamsetty/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/saivikassingamsetty/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/saivikassingamsetty/DSA/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/saivikassingamsetty/DSA/tree/master/0461-hamming-distance) |
@@ -1394,6 +1396,7 @@ A repository made with passion towards coding and problem solving
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/saivikassingamsetty/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/saivikassingamsetty/DSA/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
