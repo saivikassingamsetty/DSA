@@ -3,13 +3,7 @@
  * @return {boolean}
  */
 var isPowerOfThree = function(n) {
-    if (!n) return false;
+    let maxK = Math.floor(Math.log(2**31 - 1) / Math.log(3));
 
-    while (n) {
-        if (n == 1) return true; //3 ^ 0
-        if (n%3) return false;
-        n/=3;
-    }
-
-    return true;
+    return n > 0 && 3**maxK % n === 0;
 };
