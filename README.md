@@ -243,6 +243,7 @@ A repository made with passion towards coding and problem solving
 | [2306-create-binary-tree-from-descriptions](https://github.com/saivikassingamsetty/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/saivikassingamsetty/DSA/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/saivikassingamsetty/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/saivikassingamsetty/DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -372,6 +373,7 @@ A repository made with passion towards coding and problem solving
 | [2238-a-number-after-a-double-reversal](https://github.com/saivikassingamsetty/DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/saivikassingamsetty/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/saivikassingamsetty/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2571-find-the-pivot-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2571-find-the-pivot-integer) |
