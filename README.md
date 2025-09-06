@@ -122,6 +122,7 @@ A repository made with passion towards coding and problem solving
 | [0498-diagonal-traverse](https://github.com/saivikassingamsetty/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/saivikassingamsetty/DSA/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -444,6 +445,7 @@ A repository made with passion towards coding and problem solving
 | [0454-4sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/saivikassingamsetty/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/saivikassingamsetty/DSA/tree/master/0588-design-in-memory-file-system) |
@@ -735,6 +737,7 @@ A repository made with passion towards coding and problem solving
 | [0253-meeting-rooms-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/saivikassingamsetty/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saivikassingamsetty/DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
