@@ -428,6 +428,7 @@ A repository made with passion towards coding and problem solving
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/saivikassingamsetty/DSA/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/saivikassingamsetty/DSA/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saivikassingamsetty/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saivikassingamsetty/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
@@ -953,6 +954,7 @@ A repository made with passion towards coding and problem solving
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/saivikassingamsetty/DSA/tree/master/0348-design-tic-tac-toe) |
+| [0355-design-twitter](https://github.com/saivikassingamsetty/DSA/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saivikassingamsetty/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saivikassingamsetty/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saivikassingamsetty/DSA/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1149,6 +1151,7 @@ A repository made with passion towards coding and problem solving
 | [0253-meeting-rooms-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/saivikassingamsetty/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/saivikassingamsetty/DSA/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
@@ -1361,6 +1364,7 @@ A repository made with passion towards coding and problem solving
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/saivikassingamsetty/DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0908-middle-of-the-linked-list) |
