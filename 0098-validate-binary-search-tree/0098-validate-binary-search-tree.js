@@ -1,17 +1,8 @@
-const cache = new Map();
-
-const findMaxMin = (node) => {
-    if (!node) return [-Infinity, Infinity];
-    if (!cache.has(node))
-        cache.set(node, [Math.max(node.val, findMaxMin(node.left)[0], findMaxMin(node.right)[0]), Math.min(node.val, findMaxMin(node.left)[1], findMaxMin(node.right)[1])]);
-    return cache.get(node);
-}
-
-var isValidBST = function (root) {
+var isValidBST = function (root, min = -Infinity, max = Infinity) {
     if (!root) return true;
 
-    [leftMax, _] = findMaxMin(root.left);
-    [_, rightMin] = findMaxMin(root.right);
+    if (root.val <= min || root.val >= max) return false;
 
-    return root.val > leftMax && root.val < rightMin && isValidBST(root.left) && isValidBST(root.right);
+    // restricting boundaries of valid values
+    return isValidBST(root.left, min, root.val) && isValidBST(root.right, root.val, max);
 };
