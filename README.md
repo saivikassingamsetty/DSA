@@ -299,6 +299,7 @@ A repository made with passion towards coding and problem solving
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/saivikassingamsetty/DSA/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saivikassingamsetty/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saivikassingamsetty/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/saivikassingamsetty/DSA/tree/master/3463-alternating-groups-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saivikassingamsetty/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3483-alternating-groups-ii) |
@@ -1006,6 +1007,7 @@ A repository made with passion towards coding and problem solving
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/saivikassingamsetty/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/saivikassingamsetty/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/3330-modify-the-matrix) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saivikassingamsetty/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Geometry
 |  |
 | ------- |
