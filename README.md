@@ -127,6 +127,7 @@ A repository made with passion towards coding and problem solving
 | [0560-subarray-sum-equals-k](https://github.com/saivikassingamsetty/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/saivikassingamsetty/DSA/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/saivikassingamsetty/DSA/tree/master/0665-non-decreasing-array) |
@@ -450,6 +451,7 @@ A repository made with passion towards coding and problem solving
 | [0567-permutation-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/saivikassingamsetty/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
@@ -694,6 +696,7 @@ A repository made with passion towards coding and problem solving
 | [0455-assign-cookies](https://github.com/saivikassingamsetty/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0588-design-in-memory-file-system](https://github.com/saivikassingamsetty/DSA/tree/master/0588-design-in-memory-file-system) |
+| [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
@@ -928,6 +931,7 @@ A repository made with passion towards coding and problem solving
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
@@ -1122,6 +1126,7 @@ A repository made with passion towards coding and problem solving
 | [0435-non-overlapping-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saivikassingamsetty/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/saivikassingamsetty/DSA/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
@@ -1162,6 +1167,7 @@ A repository made with passion towards coding and problem solving
 | [0355-design-twitter](https://github.com/saivikassingamsetty/DSA/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saivikassingamsetty/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
