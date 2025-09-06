@@ -566,6 +566,7 @@ A repository made with passion towards coding and problem solving
 | [0387-first-unique-character-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/saivikassingamsetty/DSA/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/saivikassingamsetty/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/saivikassingamsetty/DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1101,6 +1102,7 @@ A repository made with passion towards coding and problem solving
 | [0134-gas-station](https://github.com/saivikassingamsetty/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saivikassingamsetty/DSA/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0402-remove-k-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/saivikassingamsetty/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saivikassingamsetty/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -1196,6 +1198,7 @@ A repository made with passion towards coding and problem solving
 | [0144-binary-tree-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
@@ -1273,6 +1276,7 @@ A repository made with passion towards coding and problem solving
 | [0042-trapping-rain-water](https://github.com/saivikassingamsetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saivikassingamsetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
