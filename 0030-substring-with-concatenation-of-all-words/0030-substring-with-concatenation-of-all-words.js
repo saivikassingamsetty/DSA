@@ -20,22 +20,41 @@ var findSubstring = function (s, words) {
     let wordLength = words[0].length;
     let totalLength = wordLength * words.length;
 
-    for (let i = 0; i <= s.length - totalLength; i++) {
-        let currMap = Object.assign({}, freqMap);
-        let isValid = true;
+    for (let offset = 0; offset < wordLength; offset++) {
+        let currMap = {};
+        let count = 0;
+        let left = offset;
 
-        for (let j = i; j < i + totalLength; j += wordLength) {
-            let word = s.slice(j, j + wordLength);
-            if (word in currMap) {
-                currMap[word]--;
-                if (!currMap[word]) delete currMap[word];
+        for (let right = offset; right <= s.length - wordLength; right += wordLength) {
+            let word = s.slice(right, right + wordLength);
+
+            if (freqMap[word]) {
+                currMap[word] = (currMap[word] || 0) + 1;
+                count++;
+
+                while (currMap[word] > freqMap[word]) {
+                    // remove to explore
+                    let w = s.slice(left, left + wordLength);
+                    currMap[w]--;
+                    count--;
+                    left += wordLength;
+                }
+
+                if (count == words.length) {
+                    res.push(left);
+                    // remove to explore
+                    let w = s.slice(left, left + wordLength);
+                    currMap[w]--;
+                    count--;
+                    left += wordLength;
+                }
             } else {
-                isValid = false;
-                break;
-            };
-        }
+                currMap = {};
+                count = 0;
+                left = right + wordLength;
+            }
 
-        if (isValid) res.push(i);
+        }
     }
 
     return res;
