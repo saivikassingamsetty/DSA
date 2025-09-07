@@ -61,6 +61,7 @@ A repository made with passion towards coding and problem solving
 | [0137-single-number-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saivikassingamsetty/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saivikassingamsetty/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saivikassingamsetty/DSA/tree/master/0162-find-peak-element) |
@@ -334,6 +335,7 @@ A repository made with passion towards coding and problem solving
 | [0069-sqrtx](https://github.com/saivikassingamsetty/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/saivikassingamsetty/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saivikassingamsetty/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/saivikassingamsetty/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saivikassingamsetty/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
@@ -1229,6 +1231,7 @@ A repository made with passion towards coding and problem solving
 | [0143-reorder-list](https://github.com/saivikassingamsetty/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saivikassingamsetty/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/saivikassingamsetty/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0402-remove-k-digits) |
