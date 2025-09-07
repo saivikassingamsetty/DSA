@@ -314,6 +314,7 @@ A repository made with passion towards coding and problem solving
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saivikassingamsetty/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/saivikassingamsetty/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Math
 |  |
 | ------- |
@@ -529,6 +530,7 @@ A repository made with passion towards coding and problem solving
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saivikassingamsetty/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saivikassingamsetty/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/saivikassingamsetty/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## String
 |  |
 | ------- |
@@ -733,6 +735,7 @@ A repository made with passion towards coding and problem solving
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/saivikassingamsetty/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1151,6 +1154,7 @@ A repository made with passion towards coding and problem solving
 | [2756-buy-two-chocolates](https://github.com/saivikassingamsetty/DSA/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/saivikassingamsetty/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/saivikassingamsetty/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1178,6 +1182,7 @@ A repository made with passion towards coding and problem solving
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saivikassingamsetty/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/saivikassingamsetty/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/saivikassingamsetty/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Bucket Sort
 |  |
 | ------- |
