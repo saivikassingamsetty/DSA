@@ -14,18 +14,12 @@
  * @return {_Node}
  */
 var lowestCommonAncestor = function (p, q) {
-    let visited = new Set();
-    let queue = new Queue();
-    queue.enqueue(p);
-    queue.enqueue(q);
+    let [p1, p2] = [p, q];
 
-    while (queue.size()) {
-        let node = queue.dequeue();
-        if (visited.has(node)) return node;
-        visited.add(node);
-
-        if (node.parent) queue.enqueue(node.parent);
+    while (p1 != p2) {
+        p1 = p1.parent ? p1.parent: q;
+        p2 = p2.parent ? p2.parent: p;
     }
 
-    return null;
+    return p1;
 };
