@@ -574,6 +574,7 @@ A repository made with passion towards coding and problem solving
 | [0383-ransom-note](https://github.com/saivikassingamsetty/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/saivikassingamsetty/DSA/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/saivikassingamsetty/DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/saivikassingamsetty/DSA/tree/master/0409-longest-palindrome) |
@@ -1220,6 +1221,7 @@ A repository made with passion towards coding and problem solving
 | [0144-binary-tree-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/saivikassingamsetty/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
@@ -1437,6 +1439,7 @@ A repository made with passion towards coding and problem solving
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/saivikassingamsetty/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saivikassingamsetty/DSA/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/saivikassingamsetty/DSA/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saivikassingamsetty/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
