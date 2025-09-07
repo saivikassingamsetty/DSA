@@ -557,6 +557,7 @@ A repository made with passion towards coding and problem solving
 | [0079-word-search](https://github.com/saivikassingamsetty/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/saivikassingamsetty/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/saivikassingamsetty/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/saivikassingamsetty/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/saivikassingamsetty/DSA/tree/master/0131-palindrome-partitioning) |
@@ -1647,6 +1648,7 @@ A repository made with passion towards coding and problem solving
 | [0091-decode-ways](https://github.com/saivikassingamsetty/DSA/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/saivikassingamsetty/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/saivikassingamsetty/DSA/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/saivikassingamsetty/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/saivikassingamsetty/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
