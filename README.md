@@ -176,6 +176,7 @@ A repository made with passion towards coding and problem solving
 | [1108-analyze-user-website-visit-pattern](https://github.com/saivikassingamsetty/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/saivikassingamsetty/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1117-as-far-from-land-as-possible](https://github.com/saivikassingamsetty/DSA/tree/master/1117-as-far-from-land-as-possible) |
+| [1127-last-stone-weight](https://github.com/saivikassingamsetty/DSA/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/saivikassingamsetty/DSA/tree/master/1241-decompress-run-length-encoded-list) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/saivikassingamsetty/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -1192,6 +1193,7 @@ A repository made with passion towards coding and problem solving
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1127-last-stone-weight](https://github.com/saivikassingamsetty/DSA/tree/master/1127-last-stone-weight) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saivikassingamsetty/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saivikassingamsetty/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3226-minimum-number-game](https://github.com/saivikassingamsetty/DSA/tree/master/3226-minimum-number-game) |
