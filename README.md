@@ -1508,6 +1508,7 @@ A repository made with passion towards coding and problem solving
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/saivikassingamsetty/DSA/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/saivikassingamsetty/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/saivikassingamsetty/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -1629,6 +1630,7 @@ A repository made with passion towards coding and problem solving
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/saivikassingamsetty/DSA/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/saivikassingamsetty/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/saivikassingamsetty/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
@@ -1884,4 +1886,8 @@ A repository made with passion towards coding and problem solving
 | [0380-insert-delete-getrandom-o1](https://github.com/saivikassingamsetty/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saivikassingamsetty/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/saivikassingamsetty/DSA/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
