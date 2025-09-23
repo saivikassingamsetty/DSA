@@ -133,6 +133,7 @@ A repository made with passion towards coding and problem solving
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/saivikassingamsetty/DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/saivikassingamsetty/DSA/tree/master/0665-non-decreasing-array) |
@@ -362,6 +363,7 @@ A repository made with passion towards coding and problem solving
 | [0492-construct-the-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/saivikassingamsetty/DSA/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -711,6 +713,7 @@ A repository made with passion towards coding and problem solving
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0588-design-in-memory-file-system](https://github.com/saivikassingamsetty/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
