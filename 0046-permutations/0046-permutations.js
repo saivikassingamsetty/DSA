@@ -2,11 +2,11 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var permute = function(nums) {
+var permute = function (nums) {
     let res = new Set();
 
-    const findPermutations = (length, included) => {
-        if (length == nums.length) {
+    const findPermutations = (included) => {
+        if (included.size == nums.length) {
             res.add([...included]);
             return;
         }
@@ -14,13 +14,13 @@ var permute = function(nums) {
         for (let i of nums) {
             if (!included.has(i)) {
                 included.add(i);
-                findPermutations(length+1, included);
+                findPermutations(included);
                 included.delete(i);
             }
         }
     }
 
-    findPermutations(0, new Set());
+    findPermutations(new Set());
 
     return [...res];
 };
