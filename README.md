@@ -166,6 +166,7 @@ A repository made with passion towards coding and problem solving
 | [0967-minimum-falling-path-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/saivikassingamsetty/DSA/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/saivikassingamsetty/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/saivikassingamsetty/DSA/tree/master/1028-interval-list-intersections) |
@@ -366,6 +367,7 @@ A repository made with passion towards coding and problem solving
 | [0628-maximum-product-of-three-numbers](https://github.com/saivikassingamsetty/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-random-pick-with-weight](https://github.com/saivikassingamsetty/DSA/tree/master/0912-random-pick-with-weight) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
+| [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saivikassingamsetty/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/saivikassingamsetty/DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -721,6 +723,7 @@ A repository made with passion towards coding and problem solving
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/saivikassingamsetty/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1137-height-checker](https://github.com/saivikassingamsetty/DSA/tree/master/1137-height-checker) |
@@ -1053,6 +1056,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
+| [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/saivikassingamsetty/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saivikassingamsetty/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1196,6 +1200,7 @@ A repository made with passion towards coding and problem solving
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saivikassingamsetty/DSA/tree/master/1127-last-stone-weight) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saivikassingamsetty/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saivikassingamsetty/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1227,6 +1232,7 @@ A repository made with passion towards coding and problem solving
 | [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1873-longest-nice-substring](https://github.com/saivikassingamsetty/DSA/tree/master/1873-longest-nice-substring) |
 ## Game Theory
 |  |
@@ -1838,6 +1844,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saivikassingamsetty/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Database
 |  |
 | ------- |
