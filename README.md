@@ -983,6 +983,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/saivikassingamsetty/DSA/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/saivikassingamsetty/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/saivikassingamsetty/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1253,6 +1254,7 @@ A repository made with passion towards coding and problem solving
 | [0144-binary-tree-preorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saivikassingamsetty/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/saivikassingamsetty/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/saivikassingamsetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/saivikassingamsetty/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/saivikassingamsetty/DSA/tree/master/0402-remove-k-digits) |
@@ -1489,6 +1491,7 @@ A repository made with passion towards coding and problem solving
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/saivikassingamsetty/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/saivikassingamsetty/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saivikassingamsetty/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
