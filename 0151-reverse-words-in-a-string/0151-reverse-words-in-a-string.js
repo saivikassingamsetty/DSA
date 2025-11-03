@@ -9,13 +9,13 @@ var reverseWords = function (s) {
     let end = 1;
     let res = '';
 
-    for (end=1; end < s.length; end++) {
+    for (end = 1; end < s.length; end++) {
         if (s[end] == ' ') {
-            if (s[end-1] == ' ') continue;
+            if (s[end - 1] == ' ') continue;
             res = ' ' + s.slice(start, end) + res;
             start = end;
         } else {
-            if (s[end-1] == ' ') {
+            if (s[end - 1] == ' ') {
                 start = end;
             }
         }
