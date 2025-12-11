@@ -611,6 +611,7 @@ A repository made with passion towards coding and problem solving
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saivikassingamsetty/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0639-decode-ways-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/saivikassingamsetty/DSA/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/saivikassingamsetty/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
@@ -1157,6 +1158,7 @@ A repository made with passion towards coding and problem solving
 | [0605-can-place-flowers](https://github.com/saivikassingamsetty/DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/saivikassingamsetty/DSA/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0630-course-schedule-iii) |
+| [0678-valid-parenthesis-string](https://github.com/saivikassingamsetty/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -1263,6 +1265,7 @@ A repository made with passion towards coding and problem solving
 | [0496-next-greater-element-i](https://github.com/saivikassingamsetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/saivikassingamsetty/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saivikassingamsetty/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/saivikassingamsetty/DSA/tree/master/0937-online-stock-span) |
@@ -1729,6 +1732,7 @@ A repository made with passion towards coding and problem solving
 | [0639-decode-ways-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/saivikassingamsetty/DSA/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/saivikassingamsetty/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
