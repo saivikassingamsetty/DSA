@@ -152,6 +152,7 @@ A repository made with passion towards coding and problem solving
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0833-bus-routes](https://github.com/saivikassingamsetty/DSA/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
+| [0846-hand-of-straights](https://github.com/saivikassingamsetty/DSA/tree/master/0846-hand-of-straights) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
@@ -476,6 +477,7 @@ A repository made with passion towards coding and problem solving
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0833-bus-routes](https://github.com/saivikassingamsetty/DSA/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
+| [0846-hand-of-straights](https://github.com/saivikassingamsetty/DSA/tree/master/0846-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saivikassingamsetty/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/saivikassingamsetty/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -723,6 +725,7 @@ A repository made with passion towards coding and problem solving
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/saivikassingamsetty/DSA/tree/master/0846-hand-of-straights) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -1163,6 +1166,7 @@ A repository made with passion towards coding and problem solving
 | [0768-partition-labels](https://github.com/saivikassingamsetty/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0846-hand-of-straights](https://github.com/saivikassingamsetty/DSA/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/saivikassingamsetty/DSA/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/saivikassingamsetty/DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
