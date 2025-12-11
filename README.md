@@ -89,6 +89,7 @@ A repository made with passion towards coding and problem solving
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/saivikassingamsetty/DSA/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/saivikassingamsetty/DSA/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/saivikassingamsetty/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/saivikassingamsetty/DSA/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/saivikassingamsetty/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -1018,6 +1019,7 @@ A repository made with passion towards coding and problem solving
 | [0174-dungeon-game](https://github.com/saivikassingamsetty/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0286-walls-and-gates](https://github.com/saivikassingamsetty/DSA/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/saivikassingamsetty/DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/saivikassingamsetty/DSA/tree/master/0348-design-tic-tac-toe) |
@@ -1592,6 +1594,7 @@ A repository made with passion towards coding and problem solving
 | [0261-graph-valid-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/saivikassingamsetty/DSA/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/saivikassingamsetty/DSA/tree/master/0279-perfect-squares) |
+| [0286-walls-and-gates](https://github.com/saivikassingamsetty/DSA/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/saivikassingamsetty/DSA/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/saivikassingamsetty/DSA/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
