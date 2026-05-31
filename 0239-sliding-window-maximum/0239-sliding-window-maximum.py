@@ -7,17 +7,19 @@ class Solution:
         
         for i in range(len(nums)):
             # remove useless, better candidate came
-            while len(potentialWinners) and nums[i] > potentialWinners[-1][0]:
+            while potentialWinners and nums[i] > potentialWinners[-1][0]:
                 potentialWinners.pop()
+
             # push better candidate
             potentialWinners.append((nums[i], i))
 
+            # valid window
             if i >= k - 1:
-                # store
-                winners.append(potentialWinners[0][0])
                 # remove old/stale candidates
-                while len(potentialWinners) and potentialWinners[0][1] <= i - k + 1:
+                while potentialWinners and potentialWinners[0][1] < i - k + 1:
                     potentialWinners.popleft()
 
+                # store
+                winners.append(potentialWinners[0][0])
+        
         return winners
-
