@@ -154,6 +154,7 @@ A repository made with passion towards coding and problem solving
 | [0833-bus-routes](https://github.com/saivikassingamsetty/DSA/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/saivikassingamsetty/DSA/tree/master/0837-most-common-word) |
 | [0846-hand-of-straights](https://github.com/saivikassingamsetty/DSA/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/saivikassingamsetty/DSA/tree/master/0853-car-fleet) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0878-shifting-letters](https://github.com/saivikassingamsetty/DSA/tree/master/0878-shifting-letters) |
@@ -727,6 +728,7 @@ A repository made with passion towards coding and problem solving
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/saivikassingamsetty/DSA/tree/master/0807-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/saivikassingamsetty/DSA/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/saivikassingamsetty/DSA/tree/master/0853-car-fleet) |
 | [0976-minimum-area-rectangle](https://github.com/saivikassingamsetty/DSA/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/saivikassingamsetty/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -1275,6 +1277,7 @@ A repository made with passion towards coding and problem solving
 | [0678-valid-parenthesis-string](https://github.com/saivikassingamsetty/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/saivikassingamsetty/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saivikassingamsetty/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/saivikassingamsetty/DSA/tree/master/0853-car-fleet) |
 | [0937-online-stock-span](https://github.com/saivikassingamsetty/DSA/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1360,6 +1363,7 @@ A repository made with passion towards coding and problem solving
 | [0503-next-greater-element-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/saivikassingamsetty/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/saivikassingamsetty/DSA/tree/master/0853-car-fleet) |
 | [0937-online-stock-span](https://github.com/saivikassingamsetty/DSA/tree/master/0937-online-stock-span) |
 ## Binary Tree
 |  |
