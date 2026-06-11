@@ -76,6 +76,7 @@ A repository made with passion towards coding and problem solving
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/saivikassingamsetty/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saivikassingamsetty/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saivikassingamsetty/DSA/tree/master/0217-contains-duplicate) |
@@ -585,6 +586,7 @@ A repository made with passion towards coding and problem solving
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saivikassingamsetty/DSA/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saivikassingamsetty/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/saivikassingamsetty/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
@@ -1027,6 +1029,7 @@ A repository made with passion towards coding and problem solving
 | [0130-surrounded-regions](https://github.com/saivikassingamsetty/DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/saivikassingamsetty/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/saivikassingamsetty/DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0286-walls-and-gates](https://github.com/saivikassingamsetty/DSA/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/saivikassingamsetty/DSA/tree/master/0289-game-of-life) |
@@ -1132,6 +1135,7 @@ A repository made with passion towards coding and problem solving
 | [0113-path-sum-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/saivikassingamsetty/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/saivikassingamsetty/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
@@ -1835,6 +1839,7 @@ A repository made with passion towards coding and problem solving
 | [0014-longest-common-prefix](https://github.com/saivikassingamsetty/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/saivikassingamsetty/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/saivikassingamsetty/DSA/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/saivikassingamsetty/DSA/tree/master/0472-concatenated-words) |
 | [0588-design-in-memory-file-system](https://github.com/saivikassingamsetty/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0692-top-k-frequent-words](https://github.com/saivikassingamsetty/DSA/tree/master/0692-top-k-frequent-words) |
