@@ -1940,4 +1940,12 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saivikassingamsetty/DSA/tree/master/0332-reconstruct-itinerary) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
