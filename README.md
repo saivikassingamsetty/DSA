@@ -271,6 +271,7 @@ A repository made with passion towards coding and problem solving
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saivikassingamsetty/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/saivikassingamsetty/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saivikassingamsetty/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -533,6 +534,7 @@ A repository made with passion towards coding and problem solving
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
 | [2487-optimal-partition-of-string](https://github.com/saivikassingamsetty/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/saivikassingamsetty/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2721-sum-of-distances](https://github.com/saivikassingamsetty/DSA/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saivikassingamsetty/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -677,6 +679,7 @@ A repository made with passion towards coding and problem solving
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saivikassingamsetty/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2487-optimal-partition-of-string](https://github.com/saivikassingamsetty/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/saivikassingamsetty/DSA/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/saivikassingamsetty/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saivikassingamsetty/DSA/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/saivikassingamsetty/DSA/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2825-minimize-string-length](https://github.com/saivikassingamsetty/DSA/tree/master/2825-minimize-string-length) |
@@ -987,6 +990,7 @@ A repository made with passion towards coding and problem solving
 | [2427-first-letter-to-appear-twice](https://github.com/saivikassingamsetty/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/saivikassingamsetty/DSA/tree/master/2486-most-frequent-even-element) |
+| [2506-count-pairs-of-similar-strings](https://github.com/saivikassingamsetty/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saivikassingamsetty/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saivikassingamsetty/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saivikassingamsetty/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1105,6 +1109,7 @@ A repository made with passion towards coding and problem solving
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/saivikassingamsetty/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/saivikassingamsetty/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/saivikassingamsetty/DSA/tree/master/2478-longest-nice-subarray) |
+| [2506-count-pairs-of-similar-strings](https://github.com/saivikassingamsetty/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2509-minimize-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saivikassingamsetty/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saivikassingamsetty/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
