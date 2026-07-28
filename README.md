@@ -362,6 +362,7 @@ A repository made with passion towards coding and problem solving
 | [0319-bulb-switcher](https://github.com/saivikassingamsetty/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/saivikassingamsetty/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saivikassingamsetty/DSA/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/saivikassingamsetty/DSA/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/saivikassingamsetty/DSA/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/saivikassingamsetty/DSA/tree/master/0371-sum-of-two-integers) |
@@ -1742,6 +1743,7 @@ A repository made with passion towards coding and problem solving
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/saivikassingamsetty/DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/saivikassingamsetty/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/saivikassingamsetty/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/saivikassingamsetty/DSA/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/saivikassingamsetty/DSA/tree/master/0403-frog-jump) |
