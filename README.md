@@ -1225,6 +1225,7 @@ A repository made with passion towards coding and problem solving
 | [0703-kth-largest-element-in-a-stream](https://github.com/saivikassingamsetty/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/saivikassingamsetty/DSA/tree/master/1046-last-stone-weight) |
@@ -1576,6 +1577,7 @@ A repository made with passion towards coding and problem solving
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -1643,6 +1645,7 @@ A repository made with passion towards coding and problem solving
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saivikassingamsetty/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -1763,6 +1766,7 @@ A repository made with passion towards coding and problem solving
 | [0678-valid-parenthesis-string](https://github.com/saivikassingamsetty/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/saivikassingamsetty/DSA/tree/master/0863-sum-of-distances-in-tree) |
 | [0875-longest-mountain-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/0875-longest-mountain-in-array) |
@@ -1793,6 +1797,7 @@ A repository made with passion towards coding and problem solving
 | ------- |
 | [0399-evaluate-division](https://github.com/saivikassingamsetty/DSA/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saivikassingamsetty/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/saivikassingamsetty/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -1957,6 +1962,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/saivikassingamsetty/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
