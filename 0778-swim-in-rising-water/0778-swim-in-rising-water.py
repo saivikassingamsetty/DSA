@@ -2,40 +2,23 @@ class Solution:
     def swimInWater(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
 
-        def canSwim(time) -> bool:
-            queue = deque()
-            queue.append((0, 0))
-            vis = set()
-            vis.add((0, 0))
+        heap = [(grid[0][0], 0, 0)]
+        vis = set()
 
-            while queue:
-                i, j = queue.popleft()
+        while heap:
+            time, i, j = heappop(heap)
 
-                if i == m - 1 and j == n - 1:
-                    return True
+            if i == m - 1 and j == n - 1:
+                return time
+            
+            if (i,j) in vis:
+                continue
+            
+            vis.add((i, j))
 
-                for di, dj in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
-                    if (
-                        i + di < m
-                        and i + di >= 0
-                        and j + dj < n
-                        and j + dj >= 0
-                        and (i + di, j + dj) not in vis
-                        and max(grid[i][j], time) == max(time, grid[i + di][j + dj])
-                    ):
-                        queue.append((i + di, j + dj))
-                        vis.add((i + di, j + dj))
-
-            return False
-
-        l = min([min(row) for row in grid])
-        r = max([max(row) for row in grid])
-
-        while l < r:
-            mid = (l + r) // 2
-            if canSwim(mid):
-                r = mid
-            else:
-                l = mid + 1
-
-        return l
+            for ni, nj in [(i - 1, j), (i + 1, j), (i, j - 1), (i, j + 1)]:
+                if (0 <= ni < m and 0 <= nj < n):
+                    newTime = max(time, grid[ni][nj])
+                    heappush(heap, (newTime, ni, nj))
+        
+        return -1
