@@ -150,6 +150,7 @@ A repository made with passion towards coding and problem solving
 | [0739-daily-temperatures](https://github.com/saivikassingamsetty/DSA/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/saivikassingamsetty/DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/saivikassingamsetty/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0833-bus-routes](https://github.com/saivikassingamsetty/DSA/tree/master/0833-bus-routes) |
@@ -941,6 +942,7 @@ A repository made with passion towards coding and problem solving
 | [0410-split-array-largest-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/saivikassingamsetty/DSA/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/saivikassingamsetty/DSA/tree/master/0493-reverse-pairs) |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/saivikassingamsetty/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saivikassingamsetty/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/saivikassingamsetty/DSA/tree/master/0907-koko-eating-bananas) |
@@ -1049,6 +1051,7 @@ A repository made with passion towards coding and problem solving
 | [0542-01-matrix](https://github.com/saivikassingamsetty/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/saivikassingamsetty/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/saivikassingamsetty/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/saivikassingamsetty/DSA/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/saivikassingamsetty/DSA/tree/master/0921-spiral-matrix-iii) |
@@ -1225,6 +1228,7 @@ A repository made with passion towards coding and problem solving
 | [0703-kth-largest-element-in-a-stream](https://github.com/saivikassingamsetty/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/saivikassingamsetty/DSA/tree/master/0778-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/saivikassingamsetty/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -1577,6 +1581,7 @@ A repository made with passion towards coding and problem solving
 | [0721-accounts-merge](https://github.com/saivikassingamsetty/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
@@ -1645,6 +1650,7 @@ A repository made with passion towards coding and problem solving
 | [0733-flood-fill](https://github.com/saivikassingamsetty/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/saivikassingamsetty/DSA/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saivikassingamsetty/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saivikassingamsetty/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/saivikassingamsetty/DSA/tree/master/0813-all-paths-from-source-to-target) |
@@ -1957,6 +1963,7 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/saivikassingamsetty/DSA/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/saivikassingamsetty/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -1968,4 +1975,12 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/saivikassingamsetty/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
