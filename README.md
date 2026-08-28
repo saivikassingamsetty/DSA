@@ -1983,4 +1983,12 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/saivikassingamsetty/DSA/tree/master/0778-swim-in-rising-water) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
