@@ -5,12 +5,12 @@ class Solution:
         if total % 2 == 1:
             return False
 
-        halfsum = total // 2
-        dp = [False] * (halfsum + 1)  # whether there is a subset till i with sum of sum
-        dp[0] = True  # obvious and base case
+        target = total // 2
+        dp = 1  # sum 0 possible
 
         for num in nums:
-            for sumSoFar in range(halfsum, num - 1, -1): # iterating backwards so we can use old results of i-1
-                dp[sumSoFar] = dp[sumSoFar] or dp[sumSoFar - num]  # include or exclude
+            # stores all combinations of subset sums (including and excluding current) with left shift (means addition)
+            dp |= dp << num
 
-        return dp[halfsum]
+        # checks whether target sum bit set or not with right shift
+        return (dp >> target) & 1 == 1
