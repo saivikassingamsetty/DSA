@@ -1,7 +1,10 @@
+from functools import lru_cache
+
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         n, m = len(s), len(p)
 
+        @lru_cache(maxsize=None)
         def solve(i, j):
             # if both reached end
             if j == m:
