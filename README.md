@@ -231,6 +231,7 @@ A repository made with passion towards coding and problem solving
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saivikassingamsetty/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saivikassingamsetty/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/saivikassingamsetty/DSA/tree/master/1899-count-items-matching-a-rule) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/saivikassingamsetty/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/saivikassingamsetty/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/saivikassingamsetty/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/saivikassingamsetty/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -1190,6 +1191,7 @@ A repository made with passion towards coding and problem solving
 | [1303-minimum-moves-to-reach-target-score](https://github.com/saivikassingamsetty/DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/saivikassingamsetty/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saivikassingamsetty/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/saivikassingamsetty/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/saivikassingamsetty/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/saivikassingamsetty/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/saivikassingamsetty/DSA/tree/master/2032-largest-odd-number-in-string) |
