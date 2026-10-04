@@ -1993,4 +1993,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saivikassingamsetty/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/saivikassingamsetty/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
