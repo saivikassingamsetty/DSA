@@ -1997,4 +1997,8 @@ A repository made with passion towards coding and problem solving
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/saivikassingamsetty/DSA/tree/master/0678-valid-parenthesis-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saivikassingamsetty/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
