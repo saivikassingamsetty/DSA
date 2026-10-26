@@ -4,13 +4,19 @@
  * @return {number}
  */
 var findKthLargest = function (nums, k) {
-    const heap = new MinPriorityQueue({ priority: el => el });
-    for (let num of nums) {
-        heap.enqueue(num);
-        if (heap.size() > k) {
-            heap.dequeue();
-        }
-    }
+    if (!nums.length) return
 
-    return heap.dequeue().element;
+    const pivot = nums[0];
+
+    const left = nums.filter(i => i > pivot);
+    const mid = nums.filter(i => i == pivot);
+    const right = nums.filter(i => i < pivot);
+
+    let [L, M] = [left.length, mid.length];
+
+    if (k <= L) return findKthLargest(left, k);
+
+    if (k > L + M) return findKthLargest(right, k - L - M);
+
+    return mid[0];
 };
